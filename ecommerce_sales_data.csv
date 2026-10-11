@@ -1,0 +1,1001 @@
+date,category,product,unit_price,quantity,revenue,region,sales_channel
+2026-01-01,Laptops & Computers,HP Pavilion 15,700.8,2,1401.61,North America,Social Media
+2026-01-01,Smartphones & Tablets,Xiaomi Redmi Note 13,274.7,1,274.7,Europe,Social Media
+2026-01-01,Audio & Sound,Bose QuietComfort,345.75,1,345.75,North America,Direct Web
+2026-01-01,Laptops & Computers,Dell XPS 13,1197.07,2,2394.13,South America,Direct Web
+2026-01-01,Laptops & Computers,HP Pavilion 15,671.38,1,671.38,North America,Direct Web
+2026-01-01,Smartphones & Tablets,Samsung Galaxy S24,897.46,1,897.46,Europe,Direct Web
+2026-01-01,Smart Home,Xiaomi Smart Air Purifier,159.71,3,479.14,North America,Direct Web
+2026-01-01,Laptops & Computers,HP Pavilion 15,707.77,2,1415.53,Europe,Affiliates
+2026-01-02,Laptops & Computers,Dell XPS 13,1184.91,1,1184.91,South America,Direct Web
+2026-01-02,Audio & Sound,JBL Charge 5,152.15,2,304.3,North America,Affiliates
+2026-01-02,Gaming & Consoles,Xbox Series X,540.79,1,540.79,South America,Amazon Marketplace
+2026-01-02,Smartphones & Tablets,Xiaomi Redmi Note 13,290.76,1,290.76,North America,Direct Web
+2026-01-03,Smartphones & Tablets,iPad Air 5,626.04,4,2504.16,South America,Direct Web
+2026-01-04,Smart Home,Philips Hue Bulb Kit,85.23,2,170.46,North America,Affiliates
+2026-01-04,Smart Home,Xiaomi Smart Air Purifier,157.6,1,157.6,Asia-Pacific,Amazon Marketplace
+2026-01-04,Smartphones & Tablets,iPad Air 5,592.23,2,1184.45,North America,Affiliates
+2026-01-04,Smart Home,Google Nest Hub,101.02,3,303.07,Europe,Affiliates
+2026-01-05,Audio & Sound,AirPods Pro 2,253.55,1,253.55,North America,Direct Web
+2026-01-05,Smartphones & Tablets,iPhone 15 Pro,1060.26,1,1060.26,North America,Social Media
+2026-01-05,Smart Home,Google Nest Hub,98.53,1,98.53,South America,Social Media
+2026-01-05,Smartphones & Tablets,iPad Air 5,658.44,2,1316.87,Asia-Pacific,Affiliates
+2026-01-05,Gaming & Consoles,Xbox Series X,455.04,2,910.07,North America,Direct Web
+2026-01-05,Laptops & Computers,Dell XPS 13,1079.86,2,2159.72,North America,Amazon Marketplace
+2026-01-05,Smartphones & Tablets,iPhone 15 Pro,1027.01,3,3081.03,North America,Social Media
+2026-01-06,Laptops & Computers,ASUS ROG Strix,1438.57,2,2877.14,North America,Amazon Marketplace
+2026-01-06,Smart Home,Amazon Echo Dot 5,46.46,1,46.46,North America,Social Media
+2026-01-06,Laptops & Computers,ASUS ROG Strix,1442.61,1,1442.61,South America,Direct Web
+2026-01-06,Smartphones & Tablets,Google Pixel 8,664.9,1,664.9,North America,Affiliates
+2026-01-07,Gaming & Consoles,PlayStation 5 Console,452.17,1,452.17,North America,Amazon Marketplace
+2026-01-07,Smart Home,Ring Video Doorbell,108.34,2,216.67,Europe,Amazon Marketplace
+2026-01-07,Smartphones & Tablets,iPad Air 5,565.55,3,1696.64,North America,Affiliates
+2026-01-08,Smart Home,Ring Video Doorbell,103.63,1,103.63,North America,Amazon Marketplace
+2026-01-08,Audio & Sound,Sony WH-1000XM4,292.6,1,292.6,North America,Social Media
+2026-01-08,Laptops & Computers,HP Pavilion 15,759.01,2,1518.02,Europe,Affiliates
+2026-01-08,Audio & Sound,Bose QuietComfort,298.11,1,298.11,North America,Social Media
+2026-01-09,Smartphones & Tablets,iPhone 15 Pro,1073.34,1,1073.34,South America,Social Media
+2026-01-09,Gaming & Consoles,Razer DeathAdder V3,69.38,1,69.38,North America,Direct Web
+2026-01-09,Smart Home,Ring Video Doorbell,101.62,1,101.62,South America,Social Media
+2026-01-10,Laptops & Computers,HP Pavilion 15,719.2,3,2157.59,North America,Direct Web
+2026-01-10,Smart Home,Xiaomi Smart Air Purifier,169.17,1,169.17,Europe,Amazon Marketplace
+2026-01-10,Smartphones & Tablets,Xiaomi Redmi Note 13,289.04,1,289.04,Europe,Amazon Marketplace
+2026-01-10,Smart Home,Ring Video Doorbell,103.61,1,103.61,Europe,Direct Web
+2026-01-11,Laptops & Computers,HP Pavilion 15,703.0,4,2811.98,North America,Social Media
+2026-01-11,Smartphones & Tablets,Samsung Galaxy S24,951.75,1,951.75,North America,Affiliates
+2026-01-12,Smart Home,Xiaomi Smart Air Purifier,174.6,1,174.6,North America,Affiliates
+2026-01-12,Gaming & Consoles,DualSense Controller,64.87,1,64.87,North America,Direct Web
+2026-01-12,Smartphones & Tablets,Google Pixel 8,768.15,1,768.15,North America,Amazon Marketplace
+2026-01-13,Smartphones & Tablets,iPad Air 5,549.86,1,549.86,Europe,Amazon Marketplace
+2026-01-13,Gaming & Consoles,Nintendo Switch OLED,314.26,2,628.52,North America,Affiliates
+2026-01-13,Audio & Sound,Bose QuietComfort,299.01,1,299.01,South America,Direct Web
+2026-01-13,Laptops & Computers,Dell XPS 13,1161.06,1,1161.06,South America,Affiliates
+2026-01-13,Audio & Sound,Marshall Major IV,152.96,2,305.92,South America,Social Media
+2026-01-14,Smart Home,Xiaomi Smart Air Purifier,145.3,1,145.3,North America,Social Media
+2026-01-14,Gaming & Consoles,Xbox Series X,449.67,1,449.67,Europe,Direct Web
+2026-01-14,Audio & Sound,JBL Charge 5,162.03,1,162.03,North America,Direct Web
+2026-01-14,Smartphones & Tablets,Google Pixel 8,744.01,4,2976.02,Europe,Social Media
+2026-01-14,Smart Home,Xiaomi Smart Air Purifier,168.83,1,168.83,Europe,Amazon Marketplace
+2026-01-15,Smart Home,Google Nest Hub,106.61,3,319.83,Europe,Direct Web
+2026-01-15,Audio & Sound,AirPods Pro 2,258.96,2,517.92,South America,Social Media
+2026-01-15,Audio & Sound,Marshall Major IV,137.21,1,137.21,North America,Social Media
+2026-01-15,Gaming & Consoles,PlayStation 5 Console,488.93,4,1955.72,North America,Amazon Marketplace
+2026-01-15,Laptops & Computers,Dell XPS 13,1252.51,1,1252.51,Europe,Amazon Marketplace
+2026-01-16,Audio & Sound,Marshall Major IV,142.45,1,142.45,North America,Amazon Marketplace
+2026-01-17,Audio & Sound,AirPods Pro 2,258.33,2,516.67,Europe,Amazon Marketplace
+2026-01-17,Smartphones & Tablets,Samsung Galaxy S24,813.5,2,1627.01,North America,Affiliates
+2026-01-18,Smart Home,Xiaomi Smart Air Purifier,152.84,2,305.67,North America,Amazon Marketplace
+2026-01-18,Laptops & Computers,Dell XPS 13,1210.78,1,1210.78,North America,Affiliates
+2026-01-19,Smartphones & Tablets,Google Pixel 8,717.47,1,717.47,North America,Direct Web
+2026-01-19,Gaming & Consoles,Xbox Series X,506.69,2,1013.38,South America,Social Media
+2026-01-19,Gaming & Consoles,Razer DeathAdder V3,71.73,1,71.73,Europe,Affiliates
+2026-01-20,Audio & Sound,Marshall Major IV,134.28,1,134.28,Europe,Direct Web
+2026-01-20,Audio & Sound,Bose QuietComfort,302.74,1,302.74,Europe,Direct Web
+2026-01-20,Gaming & Consoles,PlayStation 5 Console,535.82,1,535.82,Europe,Affiliates
+2026-01-20,Audio & Sound,JBL Charge 5,154.42,3,463.25,Europe,Direct Web
+2026-01-21,Laptops & Computers,MacBook Pro M3,1751.99,1,1751.99,North America,Direct Web
+2026-01-21,Audio & Sound,Bose QuietComfort,351.51,4,1406.03,Europe,Affiliates
+2026-01-22,Smart Home,Philips Hue Bulb Kit,74.93,1,74.93,North America,Direct Web
+2026-01-22,Audio & Sound,Marshall Major IV,148.35,2,296.7,North America,Amazon Marketplace
+2026-01-22,Smartphones & Tablets,Xiaomi Redmi Note 13,277.78,1,277.78,Europe,Amazon Marketplace
+2026-01-23,Laptops & Computers,Dell XPS 13,1249.38,1,1249.38,North America,Social Media
+2026-01-23,Smartphones & Tablets,Samsung Galaxy S24,929.0,1,929.0,North America,Direct Web
+2026-01-23,Smartphones & Tablets,Xiaomi Redmi Note 13,281.72,1,281.72,North America,Social Media
+2026-01-23,Smart Home,Google Nest Hub,106.2,1,106.2,North America,Amazon Marketplace
+2026-01-25,Laptops & Computers,HP Pavilion 15,685.2,4,2740.81,Asia-Pacific,Amazon Marketplace
+2026-01-25,Laptops & Computers,HP Pavilion 15,669.99,2,1339.99,North America,Amazon Marketplace
+2026-01-25,Laptops & Computers,Lenovo Legion 5,1208.68,1,1208.68,North America,Direct Web
+2026-01-25,Laptops & Computers,ASUS ROG Strix,1428.9,1,1428.9,South America,Direct Web
+2026-01-25,Laptops & Computers,MacBook Pro M3,1717.47,1,1717.47,North America,Amazon Marketplace
+2026-01-26,Smart Home,Xiaomi Smart Air Purifier,161.65,1,161.65,Asia-Pacific,Social Media
+2026-01-26,Audio & Sound,Bose QuietComfort,351.52,2,703.04,North America,Social Media
+2026-01-26,Smartphones & Tablets,Google Pixel 8,705.85,3,2117.54,South America,Affiliates
+2026-01-27,Laptops & Computers,Lenovo Legion 5,1226.07,1,1226.07,Europe,Amazon Marketplace
+2026-01-28,Audio & Sound,Marshall Major IV,135.1,1,135.1,Asia-Pacific,Social Media
+2026-01-28,Audio & Sound,AirPods Pro 2,234.79,1,234.79,Europe,Amazon Marketplace
+2026-01-28,Smartphones & Tablets,Google Pixel 8,687.27,2,1374.55,Europe,Social Media
+2026-01-28,Smart Home,Amazon Echo Dot 5,51.54,1,51.54,North America,Affiliates
+2026-01-28,Gaming & Consoles,PlayStation 5 Console,467.85,2,935.69,North America,Affiliates
+2026-01-29,Gaming & Consoles,PlayStation 5 Console,520.94,2,1041.87,North America,Amazon Marketplace
+2026-01-29,Audio & Sound,Sony WH-1000XM4,298.4,1,298.4,Europe,Social Media
+2026-01-29,Smartphones & Tablets,iPhone 15 Pro,989.8,2,1979.6,North America,Direct Web
+2026-01-30,Gaming & Consoles,PlayStation 5 Console,531.08,1,531.08,North America,Affiliates
+2026-01-31,Audio & Sound,AirPods Pro 2,251.72,2,503.44,North America,Amazon Marketplace
+2026-02-01,Smart Home,Ring Video Doorbell,101.71,1,101.71,North America,Amazon Marketplace
+2026-02-02,Gaming & Consoles,Razer DeathAdder V3,69.36,1,69.36,North America,Social Media
+2026-02-02,Audio & Sound,Sony WH-1000XM4,275.95,3,827.86,Asia-Pacific,Amazon Marketplace
+2026-02-02,Audio & Sound,AirPods Pro 2,235.79,3,707.36,South America,Affiliates
+2026-02-03,Laptops & Computers,Lenovo Legion 5,1247.87,2,2495.74,Europe,Amazon Marketplace
+2026-02-03,Smart Home,Google Nest Hub,94.84,1,94.84,Europe,Amazon Marketplace
+2026-02-03,Laptops & Computers,HP Pavilion 15,707.85,2,1415.7,North America,Direct Web
+2026-02-03,Smartphones & Tablets,Google Pixel 8,645.87,1,645.87,North America,Direct Web
+2026-02-04,Laptops & Computers,HP Pavilion 15,757.27,3,2271.8,North America,Affiliates
+2026-02-04,Laptops & Computers,ASUS ROG Strix,1565.15,1,1565.15,North America,Social Media
+2026-02-04,Gaming & Consoles,Xbox Series X,489.16,4,1956.66,Europe,Direct Web
+2026-02-04,Audio & Sound,JBL Charge 5,138.83,3,416.48,North America,Social Media
+2026-02-04,Smart Home,Amazon Echo Dot 5,52.74,2,105.49,North America,Affiliates
+2026-02-04,Laptops & Computers,MacBook Pro M3,2021.97,1,2021.97,South America,Direct Web
+2026-02-05,Smart Home,Ring Video Doorbell,103.39,1,103.39,Asia-Pacific,Social Media
+2026-02-05,Laptops & Computers,Dell XPS 13,1144.22,3,3432.65,Europe,Direct Web
+2026-02-05,Smartphones & Tablets,iPad Air 5,587.31,1,587.31,Europe,Affiliates
+2026-02-05,Laptops & Computers,Dell XPS 13,1103.74,3,3311.22,Europe,Affiliates
+2026-02-05,Gaming & Consoles,DualSense Controller,64.71,1,64.71,North America,Direct Web
+2026-02-06,Audio & Sound,Sony WH-1000XM4,293.74,1,293.74,Europe,Social Media
+2026-02-06,Smartphones & Tablets,Google Pixel 8,729.06,3,2187.19,North America,Amazon Marketplace
+2026-02-06,Laptops & Computers,Dell XPS 13,1221.42,2,2442.84,Europe,Amazon Marketplace
+2026-02-07,Smart Home,Amazon Echo Dot 5,52.88,1,52.88,Europe,Direct Web
+2026-02-07,Smartphones & Tablets,iPad Air 5,608.98,1,608.98,North America,Social Media
+2026-02-07,Smartphones & Tablets,iPhone 15 Pro,992.4,1,992.4,Europe,Amazon Marketplace
+2026-02-07,Laptops & Computers,Dell XPS 13,1160.72,2,2321.44,Asia-Pacific,Affiliates
+2026-02-07,Smartphones & Tablets,iPad Air 5,651.77,1,651.77,North America,Social Media
+2026-02-08,Smart Home,Philips Hue Bulb Kit,72.41,3,217.22,Europe,Amazon Marketplace
+2026-02-08,Smartphones & Tablets,iPhone 15 Pro,1085.09,3,3255.27,North America,Social Media
+2026-02-08,Smart Home,Xiaomi Smart Air Purifier,169.39,1,169.39,South America,Direct Web
+2026-02-08,Laptops & Computers,HP Pavilion 15,647.26,2,1294.53,South America,Social Media
+2026-02-08,Audio & Sound,Marshall Major IV,150.94,1,150.94,South America,Amazon Marketplace
+2026-02-08,Smartphones & Tablets,Samsung Galaxy S24,964.91,1,964.91,Asia-Pacific,Direct Web
+2026-02-08,Audio & Sound,Bose QuietComfort,333.73,4,1334.9,Europe,Social Media
+2026-02-08,Smart Home,Philips Hue Bulb Kit,85.43,1,85.43,Europe,Affiliates
+2026-02-09,Smartphones & Tablets,Xiaomi Redmi Note 13,325.49,1,325.49,North America,Amazon Marketplace
+2026-02-10,Gaming & Consoles,Nintendo Switch OLED,343.58,1,343.58,Asia-Pacific,Direct Web
+2026-02-10,Audio & Sound,JBL Charge 5,145.34,1,145.34,North America,Social Media
+2026-02-10,Smartphones & Tablets,Xiaomi Redmi Note 13,325.09,1,325.09,Europe,Affiliates
+2026-02-11,Audio & Sound,JBL Charge 5,154.22,2,308.44,North America,Amazon Marketplace
+2026-02-11,Smartphones & Tablets,iPad Air 5,553.0,2,1106.0,North America,Affiliates
+2026-02-11,Laptops & Computers,Lenovo Legion 5,1180.09,2,2360.17,Europe,Social Media
+2026-02-11,Audio & Sound,Marshall Major IV,150.93,1,150.93,North America,Social Media
+2026-02-11,Gaming & Consoles,Razer DeathAdder V3,74.94,1,74.94,North America,Direct Web
+2026-02-12,Gaming & Consoles,Xbox Series X,533.36,1,533.36,North America,Affiliates
+2026-02-12,Smart Home,Ring Video Doorbell,102.48,1,102.48,North America,Direct Web
+2026-02-13,Smartphones & Tablets,iPhone 15 Pro,926.9,1,926.9,North America,Amazon Marketplace
+2026-02-13,Audio & Sound,Sony WH-1000XM4,264.34,1,264.34,North America,Direct Web
+2026-02-13,Smart Home,Amazon Echo Dot 5,52.68,1,52.68,South America,Amazon Marketplace
+2026-02-13,Audio & Sound,AirPods Pro 2,233.2,1,233.2,North America,Social Media
+2026-02-14,Smartphones & Tablets,Samsung Galaxy S24,859.16,3,2577.49,Europe,Social Media
+2026-02-15,Gaming & Consoles,Nintendo Switch OLED,323.15,3,969.44,North America,Affiliates
+2026-02-15,Laptops & Computers,MacBook Pro M3,1965.89,2,3931.77,Asia-Pacific,Amazon Marketplace
+2026-02-15,Gaming & Consoles,DualSense Controller,75.13,3,225.38,Europe,Social Media
+2026-02-16,Smart Home,Ring Video Doorbell,94.43,2,188.85,North America,Affiliates
+2026-02-16,Laptops & Computers,MacBook Pro M3,1889.66,1,1889.66,Europe,Affiliates
+2026-02-16,Smart Home,Amazon Echo Dot 5,50.32,1,50.32,Europe,Direct Web
+2026-02-16,Smartphones & Tablets,iPhone 15 Pro,1098.79,2,2197.59,Asia-Pacific,Affiliates
+2026-02-16,Laptops & Computers,Lenovo Legion 5,1196.33,2,2392.66,South America,Social Media
+2026-02-16,Smart Home,Google Nest Hub,98.97,2,197.94,North America,Direct Web
+2026-02-17,Smartphones & Tablets,Samsung Galaxy S24,878.34,2,1756.69,Europe,Amazon Marketplace
+2026-02-17,Gaming & Consoles,Razer DeathAdder V3,74.05,1,74.05,Europe,Amazon Marketplace
+2026-02-17,Smartphones & Tablets,Xiaomi Redmi Note 13,297.56,2,595.13,Europe,Social Media
+2026-02-18,Audio & Sound,Bose QuietComfort,303.4,3,910.21,North America,Social Media
+2026-02-18,Smartphones & Tablets,iPad Air 5,615.1,1,615.1,Europe,Direct Web
+2026-02-18,Smartphones & Tablets,Samsung Galaxy S24,947.69,2,1895.37,Asia-Pacific,Direct Web
+2026-02-18,Audio & Sound,Marshall Major IV,134.19,1,134.19,North America,Social Media
+2026-02-19,Smart Home,Xiaomi Smart Air Purifier,170.41,2,340.83,North America,Social Media
+2026-02-20,Smart Home,Ring Video Doorbell,92.78,2,185.57,North America,Amazon Marketplace
+2026-02-20,Smartphones & Tablets,Samsung Galaxy S24,908.36,1,908.36,Europe,Amazon Marketplace
+2026-02-20,Audio & Sound,JBL Charge 5,146.49,2,292.98,Europe,Amazon Marketplace
+2026-02-20,Audio & Sound,AirPods Pro 2,259.94,1,259.94,Europe,Social Media
+2026-02-20,Gaming & Consoles,PlayStation 5 Console,486.14,2,972.28,South America,Affiliates
+2026-02-20,Smart Home,Google Nest Hub,106.32,1,106.32,South America,Social Media
+2026-02-20,Laptops & Computers,MacBook Pro M3,1986.54,2,3973.09,North America,Social Media
+2026-02-20,Smart Home,Amazon Echo Dot 5,50.45,1,50.45,South America,Amazon Marketplace
+2026-02-21,Smart Home,Philips Hue Bulb Kit,83.68,2,167.36,Europe,Social Media
+2026-02-21,Gaming & Consoles,DualSense Controller,72.51,1,72.51,Asia-Pacific,Direct Web
+2026-02-21,Laptops & Computers,Lenovo Legion 5,1178.44,3,3535.31,Asia-Pacific,Social Media
+2026-02-22,Gaming & Consoles,PlayStation 5 Console,488.49,3,1465.48,Asia-Pacific,Social Media
+2026-02-22,Laptops & Computers,Lenovo Legion 5,1410.92,4,5643.69,South America,Social Media
+2026-02-22,Smartphones & Tablets,Xiaomi Redmi Note 13,276.62,2,553.24,South America,Social Media
+2026-02-22,Laptops & Computers,HP Pavilion 15,732.15,2,1464.29,Europe,Affiliates
+2026-02-22,Gaming & Consoles,Razer DeathAdder V3,75.55,1,75.55,Asia-Pacific,Social Media
+2026-02-22,Smart Home,Ring Video Doorbell,90.13,1,90.13,North America,Direct Web
+2026-02-22,Laptops & Computers,ASUS ROG Strix,1553.62,1,1553.62,North America,Direct Web
+2026-02-22,Laptops & Computers,MacBook Pro M3,1886.9,2,3773.81,North America,Social Media
+2026-02-23,Audio & Sound,Marshall Major IV,151.36,3,454.08,Europe,Amazon Marketplace
+2026-02-23,Smart Home,Philips Hue Bulb Kit,72.45,1,72.45,North America,Affiliates
+2026-02-23,Smartphones & Tablets,Samsung Galaxy S24,816.83,3,2450.5,North America,Social Media
+2026-02-23,Gaming & Consoles,PlayStation 5 Console,515.65,2,1031.31,North America,Social Media
+2026-02-23,Smartphones & Tablets,Xiaomi Redmi Note 13,318.33,2,636.67,North America,Social Media
+2026-02-23,Smart Home,Amazon Echo Dot 5,51.76,1,51.76,Europe,Amazon Marketplace
+2026-02-23,Laptops & Computers,Lenovo Legion 5,1310.38,1,1310.38,North America,Amazon Marketplace
+2026-02-23,Laptops & Computers,Dell XPS 13,1103.05,1,1103.05,Europe,Amazon Marketplace
+2026-02-24,Smart Home,Xiaomi Smart Air Purifier,164.98,2,329.96,Europe,Affiliates
+2026-02-24,Laptops & Computers,Dell XPS 13,1137.1,1,1137.1,Europe,Direct Web
+2026-02-24,Laptops & Computers,HP Pavilion 15,756.47,1,756.47,North America,Affiliates
+2026-02-24,Laptops & Computers,ASUS ROG Strix,1600.41,3,4801.24,Asia-Pacific,Amazon Marketplace
+2026-02-25,Gaming & Consoles,Nintendo Switch OLED,363.61,2,727.23,South America,Direct Web
+2026-02-25,Gaming & Consoles,PlayStation 5 Console,543.79,3,1631.38,Asia-Pacific,Direct Web
+2026-02-26,Audio & Sound,Bose QuietComfort,298.17,1,298.17,Asia-Pacific,Amazon Marketplace
+2026-02-27,Smartphones & Tablets,Google Pixel 8,732.02,1,732.02,North America,Amazon Marketplace
+2026-02-27,Smart Home,Xiaomi Smart Air Purifier,153.6,2,307.2,North America,Affiliates
+2026-02-27,Smart Home,Google Nest Hub,107.04,1,107.04,North America,Amazon Marketplace
+2026-02-27,Smart Home,Google Nest Hub,94.38,1,94.38,South America,Direct Web
+2026-02-27,Audio & Sound,Marshall Major IV,155.7,1,155.7,North America,Social Media
+2026-02-27,Gaming & Consoles,Razer DeathAdder V3,74.21,1,74.21,North America,Amazon Marketplace
+2026-02-28,Audio & Sound,Bose QuietComfort,298.84,1,298.84,South America,Amazon Marketplace
+2026-02-28,Smart Home,Philips Hue Bulb Kit,77.38,1,77.38,North America,Affiliates
+2026-03-01,Smartphones & Tablets,Samsung Galaxy S24,946.16,1,946.16,North America,Affiliates
+2026-03-01,Laptops & Computers,ASUS ROG Strix,1485.48,1,1485.48,South America,Amazon Marketplace
+2026-03-01,Gaming & Consoles,DualSense Controller,65.79,2,131.58,North America,Direct Web
+2026-03-02,Gaming & Consoles,Razer DeathAdder V3,65.13,1,65.13,North America,Direct Web
+2026-03-02,Audio & Sound,JBL Charge 5,138.02,2,276.04,South America,Social Media
+2026-03-03,Gaming & Consoles,Razer DeathAdder V3,73.93,1,73.93,South America,Amazon Marketplace
+2026-03-03,Smart Home,Xiaomi Smart Air Purifier,161.4,1,161.4,Europe,Affiliates
+2026-03-03,Smart Home,Amazon Echo Dot 5,44.85,2,89.7,South America,Direct Web
+2026-03-03,Audio & Sound,JBL Charge 5,145.5,1,145.5,South America,Social Media
+2026-03-03,Smart Home,Philips Hue Bulb Kit,76.91,1,76.91,South America,Amazon Marketplace
+2026-03-04,Smartphones & Tablets,Google Pixel 8,654.51,1,654.51,Europe,Direct Web
+2026-03-04,Audio & Sound,Bose QuietComfort,324.76,3,974.27,Europe,Amazon Marketplace
+2026-03-04,Smartphones & Tablets,iPhone 15 Pro,965.45,1,965.45,Europe,Amazon Marketplace
+2026-03-04,Laptops & Computers,Dell XPS 13,1161.06,1,1161.06,Europe,Direct Web
+2026-03-04,Smartphones & Tablets,Samsung Galaxy S24,941.98,2,1883.95,North America,Direct Web
+2026-03-04,Laptops & Computers,Lenovo Legion 5,1227.1,1,1227.1,North America,Direct Web
+2026-03-04,Laptops & Computers,MacBook Pro M3,1952.88,1,1952.88,North America,Amazon Marketplace
+2026-03-04,Smartphones & Tablets,Xiaomi Redmi Note 13,303.22,1,303.22,Asia-Pacific,Amazon Marketplace
+2026-03-06,Audio & Sound,Marshall Major IV,151.03,2,302.06,Europe,Social Media
+2026-03-06,Smart Home,Philips Hue Bulb Kit,81.58,1,81.58,Europe,Affiliates
+2026-03-06,Smart Home,Amazon Echo Dot 5,49.47,1,49.47,North America,Amazon Marketplace
+2026-03-07,Laptops & Computers,HP Pavilion 15,752.02,1,752.02,Europe,Affiliates
+2026-03-07,Laptops & Computers,ASUS ROG Strix,1551.64,2,3103.28,North America,Direct Web
+2026-03-08,Audio & Sound,AirPods Pro 2,251.34,1,251.34,North America,Amazon Marketplace
+2026-03-08,Gaming & Consoles,Xbox Series X,531.91,4,2127.64,North America,Social Media
+2026-03-08,Smartphones & Tablets,iPad Air 5,611.72,1,611.72,South America,Social Media
+2026-03-09,Laptops & Computers,MacBook Pro M3,1819.68,4,7278.71,South America,Affiliates
+2026-03-09,Smart Home,Google Nest Hub,93.2,3,279.6,Europe,Direct Web
+2026-03-10,Audio & Sound,Marshall Major IV,138.64,1,138.64,North America,Affiliates
+2026-03-10,Smartphones & Tablets,iPad Air 5,646.85,1,646.85,South America,Direct Web
+2026-03-10,Audio & Sound,JBL Charge 5,155.26,1,155.26,South America,Social Media
+2026-03-10,Smartphones & Tablets,Samsung Galaxy S24,977.64,1,977.64,North America,Affiliates
+2026-03-10,Smartphones & Tablets,iPhone 15 Pro,1019.64,2,2039.28,Europe,Social Media
+2026-03-10,Laptops & Computers,Dell XPS 13,1192.62,1,1192.62,Europe,Social Media
+2026-03-11,Audio & Sound,Sony WH-1000XM4,253.52,1,253.52,Europe,Direct Web
+2026-03-11,Audio & Sound,Bose QuietComfort,340.29,1,340.29,Europe,Affiliates
+2026-03-13,Smart Home,Ring Video Doorbell,100.63,3,301.88,Europe,Affiliates
+2026-03-13,Smart Home,Google Nest Hub,108.71,1,108.71,North America,Social Media
+2026-03-14,Laptops & Computers,Lenovo Legion 5,1231.23,1,1231.23,Europe,Social Media
+2026-03-15,Laptops & Computers,Lenovo Legion 5,1306.99,1,1306.99,North America,Direct Web
+2026-03-16,Gaming & Consoles,DualSense Controller,71.08,3,213.25,North America,Amazon Marketplace
+2026-03-16,Smart Home,Amazon Echo Dot 5,50.42,2,100.83,North America,Amazon Marketplace
+2026-03-16,Smartphones & Tablets,iPhone 15 Pro,1011.25,1,1011.25,Europe,Social Media
+2026-03-16,Audio & Sound,AirPods Pro 2,262.79,1,262.79,Europe,Amazon Marketplace
+2026-03-16,Laptops & Computers,Dell XPS 13,1128.25,1,1128.25,North America,Amazon Marketplace
+2026-03-17,Audio & Sound,Sony WH-1000XM4,290.54,1,290.54,Europe,Amazon Marketplace
+2026-03-17,Audio & Sound,Bose QuietComfort,336.88,3,1010.64,Asia-Pacific,Amazon Marketplace
+2026-03-17,Gaming & Consoles,Nintendo Switch OLED,376.65,2,753.29,North America,Social Media
+2026-03-17,Smart Home,Philips Hue Bulb Kit,84.49,1,84.49,North America,Amazon Marketplace
+2026-03-19,Laptops & Computers,ASUS ROG Strix,1443.58,3,4330.74,Europe,Amazon Marketplace
+2026-03-19,Audio & Sound,Marshall Major IV,142.33,1,142.33,North America,Direct Web
+2026-03-19,Laptops & Computers,Lenovo Legion 5,1424.13,2,2848.27,Europe,Social Media
+2026-03-19,Smartphones & Tablets,Xiaomi Redmi Note 13,300.63,3,901.89,North America,Affiliates
+2026-03-19,Gaming & Consoles,Razer DeathAdder V3,74.61,1,74.61,South America,Affiliates
+2026-03-19,Smartphones & Tablets,Xiaomi Redmi Note 13,278.9,2,557.8,Europe,Direct Web
+2026-03-21,Laptops & Computers,HP Pavilion 15,718.97,1,718.97,Europe,Direct Web
+2026-03-22,Laptops & Computers,Lenovo Legion 5,1379.5,1,1379.5,Europe,Social Media
+2026-03-22,Smart Home,Philips Hue Bulb Kit,86.07,1,86.07,Europe,Affiliates
+2026-03-22,Audio & Sound,AirPods Pro 2,240.9,1,240.9,Europe,Amazon Marketplace
+2026-03-22,Audio & Sound,Marshall Major IV,155.7,2,311.41,Europe,Direct Web
+2026-03-22,Smartphones & Tablets,Google Pixel 8,704.43,3,2113.28,North America,Affiliates
+2026-03-23,Gaming & Consoles,Razer DeathAdder V3,62.94,2,125.87,South America,Social Media
+2026-03-23,Audio & Sound,AirPods Pro 2,258.46,3,775.39,North America,Amazon Marketplace
+2026-03-24,Smart Home,Ring Video Doorbell,102.76,2,205.53,Europe,Social Media
+2026-03-24,Smartphones & Tablets,Xiaomi Redmi Note 13,324.75,1,324.75,North America,Direct Web
+2026-03-25,Smartphones & Tablets,iPhone 15 Pro,998.46,1,998.46,South America,Affiliates
+2026-03-25,Smart Home,Xiaomi Smart Air Purifier,150.42,1,150.42,North America,Affiliates
+2026-03-25,Gaming & Consoles,DualSense Controller,62.71,2,125.43,Europe,Affiliates
+2026-03-26,Smart Home,Amazon Echo Dot 5,48.17,3,144.52,Europe,Affiliates
+2026-03-26,Gaming & Consoles,DualSense Controller,66.27,1,66.27,North America,Amazon Marketplace
+2026-03-27,Smart Home,Xiaomi Smart Air Purifier,167.3,2,334.61,Europe,Amazon Marketplace
+2026-03-27,Smart Home,Philips Hue Bulb Kit,76.7,2,153.39,North America,Social Media
+2026-03-27,Laptops & Computers,Dell XPS 13,1306.69,1,1306.69,South America,Amazon Marketplace
+2026-03-27,Smartphones & Tablets,Samsung Galaxy S24,982.12,1,982.12,Europe,Direct Web
+2026-03-28,Smart Home,Ring Video Doorbell,101.39,1,101.39,North America,Direct Web
+2026-03-29,Smart Home,Ring Video Doorbell,107.49,1,107.49,Asia-Pacific,Affiliates
+2026-03-29,Audio & Sound,AirPods Pro 2,261.99,1,261.99,North America,Direct Web
+2026-03-30,Smartphones & Tablets,Samsung Galaxy S24,907.43,1,907.43,North America,Social Media
+2026-03-30,Audio & Sound,JBL Charge 5,139.47,1,139.47,Asia-Pacific,Amazon Marketplace
+2026-03-30,Smartphones & Tablets,Xiaomi Redmi Note 13,296.52,1,296.52,North America,Amazon Marketplace
+2026-03-30,Audio & Sound,Bose QuietComfort,333.01,3,999.02,Asia-Pacific,Amazon Marketplace
+2026-03-31,Smart Home,Philips Hue Bulb Kit,84.75,1,84.75,Asia-Pacific,Direct Web
+2026-03-31,Smart Home,Amazon Echo Dot 5,48.82,2,97.63,North America,Amazon Marketplace
+2026-03-31,Laptops & Computers,ASUS ROG Strix,1618.22,1,1618.22,South America,Affiliates
+2026-03-31,Audio & Sound,Marshall Major IV,154.2,1,154.2,North America,Affiliates
+2026-03-31,Gaming & Consoles,DualSense Controller,63.99,3,191.97,South America,Affiliates
+2026-04-01,Laptops & Computers,Lenovo Legion 5,1427.6,1,1427.6,North America,Direct Web
+2026-04-02,Audio & Sound,Marshall Major IV,149.81,1,149.81,North America,Amazon Marketplace
+2026-04-02,Audio & Sound,Bose QuietComfort,321.88,2,643.77,North America,Direct Web
+2026-04-02,Laptops & Computers,ASUS ROG Strix,1546.7,1,1546.7,South America,Amazon Marketplace
+2026-04-02,Smart Home,Xiaomi Smart Air Purifier,146.56,1,146.56,Asia-Pacific,Social Media
+2026-04-02,Audio & Sound,Bose QuietComfort,337.98,1,337.98,Europe,Social Media
+2026-04-02,Smart Home,Amazon Echo Dot 5,48.98,1,48.98,Europe,Direct Web
+2026-04-03,Laptops & Computers,MacBook Pro M3,1863.55,1,1863.55,South America,Affiliates
+2026-04-03,Smart Home,Google Nest Hub,107.97,1,107.97,Europe,Direct Web
+2026-04-04,Smartphones & Tablets,Xiaomi Redmi Note 13,300.35,3,901.04,North America,Affiliates
+2026-04-04,Gaming & Consoles,PlayStation 5 Console,470.97,2,941.94,Europe,Amazon Marketplace
+2026-04-04,Audio & Sound,JBL Charge 5,147.78,2,295.55,Asia-Pacific,Affiliates
+2026-04-05,Gaming & Consoles,DualSense Controller,74.79,2,149.58,North America,Affiliates
+2026-04-05,Smart Home,Philips Hue Bulb Kit,73.88,3,221.65,Europe,Amazon Marketplace
+2026-04-05,Audio & Sound,JBL Charge 5,140.48,1,140.48,Europe,Social Media
+2026-04-05,Smart Home,Amazon Echo Dot 5,44.23,3,132.68,Asia-Pacific,Amazon Marketplace
+2026-04-05,Smartphones & Tablets,Xiaomi Redmi Note 13,269.95,2,539.9,Europe,Direct Web
+2026-04-05,Laptops & Computers,Dell XPS 13,1277.99,2,2555.98,North America,Direct Web
+2026-04-05,Audio & Sound,Sony WH-1000XM4,290.91,1,290.91,North America,Direct Web
+2026-04-06,Smartphones & Tablets,iPhone 15 Pro,970.04,1,970.04,North America,Direct Web
+2026-04-06,Smartphones & Tablets,Xiaomi Redmi Note 13,310.86,1,310.86,Europe,Direct Web
+2026-04-06,Audio & Sound,Bose QuietComfort,322.1,2,644.21,North America,Social Media
+2026-04-06,Smart Home,Philips Hue Bulb Kit,86.16,1,86.16,Europe,Social Media
+2026-04-06,Smartphones & Tablets,Xiaomi Redmi Note 13,326.93,2,653.86,North America,Affiliates
+2026-04-06,Gaming & Consoles,Nintendo Switch OLED,341.52,1,341.52,North America,Direct Web
+2026-04-07,Smartphones & Tablets,iPhone 15 Pro,1069.77,1,1069.77,South America,Amazon Marketplace
+2026-04-07,Smart Home,Google Nest Hub,104.41,1,104.41,Europe,Direct Web
+2026-04-07,Smart Home,Xiaomi Smart Air Purifier,152.96,1,152.96,North America,Social Media
+2026-04-07,Gaming & Consoles,PlayStation 5 Console,472.26,1,472.26,South America,Direct Web
+2026-04-08,Smartphones & Tablets,Xiaomi Redmi Note 13,296.5,1,296.5,South America,Social Media
+2026-04-08,Smart Home,Xiaomi Smart Air Purifier,167.95,4,671.79,North America,Affiliates
+2026-04-08,Audio & Sound,AirPods Pro 2,271.92,1,271.92,North America,Affiliates
+2026-04-09,Laptops & Computers,Lenovo Legion 5,1367.48,1,1367.48,Europe,Affiliates
+2026-04-09,Laptops & Computers,ASUS ROG Strix,1605.49,2,3210.98,South America,Social Media
+2026-04-09,Laptops & Computers,Dell XPS 13,1223.71,3,3671.14,North America,Direct Web
+2026-04-09,Smartphones & Tablets,iPad Air 5,639.18,2,1278.36,Europe,Direct Web
+2026-04-09,Gaming & Consoles,PlayStation 5 Console,527.39,1,527.39,Asia-Pacific,Amazon Marketplace
+2026-04-09,Smart Home,Xiaomi Smart Air Purifier,155.09,3,465.26,Europe,Social Media
+2026-04-09,Audio & Sound,Sony WH-1000XM4,280.89,2,561.78,South America,Amazon Marketplace
+2026-04-09,Audio & Sound,JBL Charge 5,158.08,1,158.08,Europe,Affiliates
+2026-04-09,Smartphones & Tablets,Google Pixel 8,635.54,1,635.54,Asia-Pacific,Direct Web
+2026-04-10,Laptops & Computers,ASUS ROG Strix,1591.36,1,1591.36,Europe,Social Media
+2026-04-10,Smartphones & Tablets,Google Pixel 8,653.97,1,653.97,South America,Amazon Marketplace
+2026-04-10,Gaming & Consoles,Nintendo Switch OLED,350.02,2,700.05,South America,Amazon Marketplace
+2026-04-10,Gaming & Consoles,Xbox Series X,529.77,1,529.77,Europe,Amazon Marketplace
+2026-04-11,Smart Home,Philips Hue Bulb Kit,75.11,3,225.33,North America,Direct Web
+2026-04-11,Smart Home,Google Nest Hub,93.97,1,93.97,South America,Direct Web
+2026-04-11,Gaming & Consoles,Nintendo Switch OLED,342.21,1,342.21,Europe,Direct Web
+2026-04-11,Gaming & Consoles,Razer DeathAdder V3,74.45,1,74.45,Europe,Social Media
+2026-04-11,Gaming & Consoles,Razer DeathAdder V3,62.11,1,62.11,South America,Direct Web
+2026-04-11,Smartphones & Tablets,Google Pixel 8,755.11,2,1510.23,Europe,Social Media
+2026-04-11,Gaming & Consoles,DualSense Controller,64.22,2,128.45,North America,Amazon Marketplace
+2026-04-13,Audio & Sound,Sony WH-1000XM4,305.25,1,305.25,South America,Amazon Marketplace
+2026-04-13,Laptops & Computers,Dell XPS 13,1308.07,1,1308.07,Europe,Affiliates
+2026-04-13,Gaming & Consoles,Xbox Series X,498.47,1,498.47,North America,Direct Web
+2026-04-13,Laptops & Computers,Dell XPS 13,1202.05,2,2404.1,North America,Amazon Marketplace
+2026-04-14,Smartphones & Tablets,Xiaomi Redmi Note 13,297.9,1,297.9,Asia-Pacific,Direct Web
+2026-04-14,Laptops & Computers,Lenovo Legion 5,1334.19,1,1334.19,North America,Social Media
+2026-04-14,Smartphones & Tablets,Xiaomi Redmi Note 13,274.53,2,549.05,North America,Amazon Marketplace
+2026-04-14,Audio & Sound,AirPods Pro 2,225.72,3,677.17,Asia-Pacific,Direct Web
+2026-04-14,Smartphones & Tablets,iPad Air 5,546.01,1,546.01,Europe,Amazon Marketplace
+2026-04-14,Smartphones & Tablets,iPhone 15 Pro,987.88,1,987.88,Europe,Amazon Marketplace
+2026-04-14,Smart Home,Amazon Echo Dot 5,46.8,2,93.6,Europe,Direct Web
+2026-04-15,Gaming & Consoles,DualSense Controller,70.68,2,141.37,North America,Amazon Marketplace
+2026-04-15,Gaming & Consoles,PlayStation 5 Console,548.15,1,548.15,Europe,Amazon Marketplace
+2026-04-16,Audio & Sound,Bose QuietComfort,321.52,3,964.56,South America,Amazon Marketplace
+2026-04-16,Audio & Sound,Bose QuietComfort,333.86,2,667.72,Europe,Amazon Marketplace
+2026-04-16,Gaming & Consoles,DualSense Controller,67.84,1,67.84,South America,Social Media
+2026-04-16,Smart Home,Amazon Echo Dot 5,52.4,1,52.4,Europe,Amazon Marketplace
+2026-04-17,Gaming & Consoles,DualSense Controller,74.55,1,74.55,South America,Affiliates
+2026-04-17,Smart Home,Amazon Echo Dot 5,52.7,2,105.4,South America,Amazon Marketplace
+2026-04-18,Audio & Sound,Bose QuietComfort,360.21,1,360.21,Europe,Direct Web
+2026-04-18,Laptops & Computers,Dell XPS 13,1085.7,2,2171.4,Europe,Affiliates
+2026-04-19,Audio & Sound,Bose QuietComfort,351.36,2,702.72,Europe,Social Media
+2026-04-19,Audio & Sound,AirPods Pro 2,261.54,1,261.54,South America,Affiliates
+2026-04-20,Smartphones & Tablets,Xiaomi Redmi Note 13,282.78,2,565.55,South America,Affiliates
+2026-04-21,Smartphones & Tablets,iPad Air 5,653.67,3,1961.0,Europe,Affiliates
+2026-04-21,Smartphones & Tablets,Xiaomi Redmi Note 13,277.96,1,277.96,Europe,Direct Web
+2026-04-21,Smartphones & Tablets,Samsung Galaxy S24,931.28,1,931.28,Europe,Direct Web
+2026-04-21,Smart Home,Google Nest Hub,93.55,1,93.55,Asia-Pacific,Direct Web
+2026-04-21,Gaming & Consoles,PlayStation 5 Console,492.15,3,1476.46,Europe,Social Media
+2026-04-21,Laptops & Computers,Dell XPS 13,1251.55,4,5006.22,South America,Direct Web
+2026-04-21,Audio & Sound,Bose QuietComfort,333.17,1,333.17,Europe,Direct Web
+2026-04-22,Smart Home,Amazon Echo Dot 5,48.29,2,96.58,Asia-Pacific,Affiliates
+2026-04-22,Laptops & Computers,Dell XPS 13,1157.36,1,1157.36,Europe,Direct Web
+2026-04-22,Smart Home,Ring Video Doorbell,105.73,1,105.73,Europe,Amazon Marketplace
+2026-04-22,Smart Home,Philips Hue Bulb Kit,73.37,1,73.37,Europe,Direct Web
+2026-04-22,Audio & Sound,Bose QuietComfort,324.4,1,324.4,South America,Social Media
+2026-04-23,Gaming & Consoles,Xbox Series X,539.3,1,539.3,North America,Social Media
+2026-04-23,Smartphones & Tablets,Samsung Galaxy S24,961.18,1,961.18,South America,Amazon Marketplace
+2026-04-23,Gaming & Consoles,Nintendo Switch OLED,342.09,1,342.09,Asia-Pacific,Social Media
+2026-04-23,Audio & Sound,Sony WH-1000XM4,292.63,3,877.89,Europe,Social Media
+2026-04-23,Audio & Sound,Marshall Major IV,158.63,1,158.63,South America,Affiliates
+2026-04-23,Audio & Sound,Bose QuietComfort,354.59,1,354.59,Asia-Pacific,Amazon Marketplace
+2026-04-23,Laptops & Computers,Lenovo Legion 5,1310.56,1,1310.56,South America,Affiliates
+2026-04-23,Gaming & Consoles,PlayStation 5 Console,469.51,2,939.01,South America,Affiliates
+2026-04-24,Gaming & Consoles,Nintendo Switch OLED,331.92,1,331.92,Europe,Direct Web
+2026-04-24,Smart Home,Google Nest Hub,94.95,1,94.95,Europe,Amazon Marketplace
+2026-04-24,Smart Home,Philips Hue Bulb Kit,80.48,4,321.93,North America,Direct Web
+2026-04-25,Smart Home,Ring Video Doorbell,89.75,1,89.75,South America,Direct Web
+2026-04-25,Audio & Sound,Marshall Major IV,153.05,1,153.05,South America,Affiliates
+2026-04-26,Gaming & Consoles,Xbox Series X,485.46,2,970.93,North America,Social Media
+2026-04-26,Audio & Sound,AirPods Pro 2,238.8,1,238.8,South America,Amazon Marketplace
+2026-04-26,Laptops & Computers,HP Pavilion 15,752.05,1,752.05,South America,Social Media
+2026-04-27,Smart Home,Amazon Echo Dot 5,48.61,1,48.61,North America,Affiliates
+2026-04-27,Audio & Sound,Marshall Major IV,136.93,1,136.93,South America,Affiliates
+2026-04-27,Audio & Sound,AirPods Pro 2,265.27,1,265.27,North America,Affiliates
+2026-04-28,Laptops & Computers,Dell XPS 13,1090.52,1,1090.52,South America,Affiliates
+2026-04-28,Smartphones & Tablets,Samsung Galaxy S24,939.77,1,939.77,Europe,Affiliates
+2026-04-28,Gaming & Consoles,Razer DeathAdder V3,72.78,1,72.78,Europe,Affiliates
+2026-04-28,Smartphones & Tablets,iPad Air 5,581.34,2,1162.68,North America,Social Media
+2026-04-28,Smart Home,Google Nest Hub,105.43,1,105.43,North America,Direct Web
+2026-04-28,Audio & Sound,Marshall Major IV,149.47,1,149.47,North America,Social Media
+2026-04-29,Laptops & Computers,MacBook Pro M3,1885.06,3,5655.18,South America,Amazon Marketplace
+2026-04-29,Laptops & Computers,ASUS ROG Strix,1362.71,2,2725.42,North America,Social Media
+2026-04-29,Gaming & Consoles,Nintendo Switch OLED,334.34,1,334.34,South America,Affiliates
+2026-04-30,Smartphones & Tablets,iPhone 15 Pro,1085.12,3,3255.35,North America,Social Media
+2026-04-30,Gaming & Consoles,Razer DeathAdder V3,67.51,1,67.51,Europe,Direct Web
+2026-04-30,Audio & Sound,Bose QuietComfort,332.07,1,332.07,North America,Amazon Marketplace
+2026-04-30,Gaming & Consoles,PlayStation 5 Console,502.2,2,1004.39,North America,Social Media
+2026-05-01,Laptops & Computers,Dell XPS 13,1220.69,1,1220.69,Europe,Direct Web
+2026-05-01,Laptops & Computers,MacBook Pro M3,1732.39,1,1732.39,North America,Social Media
+2026-05-02,Smart Home,Amazon Echo Dot 5,47.65,1,47.65,North America,Amazon Marketplace
+2026-05-02,Smart Home,Google Nest Hub,103.42,1,103.42,South America,Social Media
+2026-05-02,Audio & Sound,Marshall Major IV,140.08,1,140.08,South America,Affiliates
+2026-05-02,Smartphones & Tablets,Xiaomi Redmi Note 13,281.27,3,843.82,Europe,Social Media
+2026-05-02,Gaming & Consoles,Xbox Series X,450.11,1,450.11,North America,Direct Web
+2026-05-02,Audio & Sound,Sony WH-1000XM4,274.52,3,823.57,South America,Social Media
+2026-05-03,Smart Home,Amazon Echo Dot 5,52.75,1,52.75,North America,Direct Web
+2026-05-03,Gaming & Consoles,PlayStation 5 Console,454.28,2,908.56,North America,Amazon Marketplace
+2026-05-04,Smart Home,Xiaomi Smart Air Purifier,149.18,2,298.36,Europe,Social Media
+2026-05-04,Gaming & Consoles,Razer DeathAdder V3,66.38,2,132.76,Europe,Amazon Marketplace
+2026-05-05,Smartphones & Tablets,Samsung Galaxy S24,940.66,1,940.66,North America,Amazon Marketplace
+2026-05-05,Audio & Sound,Bose QuietComfort,338.25,1,338.25,South America,Social Media
+2026-05-06,Gaming & Consoles,Xbox Series X,490.61,1,490.61,North America,Direct Web
+2026-05-06,Laptops & Computers,ASUS ROG Strix,1576.67,3,4730.01,Europe,Amazon Marketplace
+2026-05-06,Laptops & Computers,MacBook Pro M3,1940.64,2,3881.28,North America,Amazon Marketplace
+2026-05-06,Gaming & Consoles,PlayStation 5 Console,538.52,1,538.52,North America,Social Media
+2026-05-06,Gaming & Consoles,PlayStation 5 Console,530.74,1,530.74,South America,Social Media
+2026-05-06,Gaming & Consoles,Xbox Series X,474.33,1,474.33,South America,Social Media
+2026-05-07,Laptops & Computers,Lenovo Legion 5,1239.62,2,2479.24,South America,Social Media
+2026-05-07,Laptops & Computers,MacBook Pro M3,1756.71,1,1756.71,North America,Social Media
+2026-05-07,Gaming & Consoles,Xbox Series X,482.73,2,965.46,North America,Affiliates
+2026-05-07,Smart Home,Xiaomi Smart Air Purifier,174.89,4,699.54,South America,Social Media
+2026-05-08,Smart Home,Xiaomi Smart Air Purifier,156.0,1,156.0,North America,Direct Web
+2026-05-08,Smartphones & Tablets,Samsung Galaxy S24,848.74,1,848.74,Europe,Amazon Marketplace
+2026-05-08,Audio & Sound,Sony WH-1000XM4,292.59,1,292.59,North America,Direct Web
+2026-05-08,Smart Home,Google Nest Hub,99.84,1,99.84,South America,Direct Web
+2026-05-08,Laptops & Computers,Lenovo Legion 5,1207.97,1,1207.97,Europe,Affiliates
+2026-05-09,Smart Home,Google Nest Hub,96.64,1,96.64,North America,Social Media
+2026-05-09,Smartphones & Tablets,iPad Air 5,588.75,3,1766.26,Europe,Amazon Marketplace
+2026-05-09,Smartphones & Tablets,Google Pixel 8,734.49,1,734.49,Europe,Direct Web
+2026-05-10,Audio & Sound,Bose QuietComfort,297.46,1,297.46,North America,Social Media
+2026-05-10,Smart Home,Ring Video Doorbell,94.43,3,283.28,Asia-Pacific,Social Media
+2026-05-10,Laptops & Computers,ASUS ROG Strix,1504.28,2,3008.55,South America,Affiliates
+2026-05-10,Laptops & Computers,Lenovo Legion 5,1238.95,1,1238.95,North America,Affiliates
+2026-05-11,Gaming & Consoles,Nintendo Switch OLED,357.96,1,357.96,South America,Affiliates
+2026-05-11,Laptops & Computers,ASUS ROG Strix,1493.56,1,1493.56,North America,Amazon Marketplace
+2026-05-11,Audio & Sound,Sony WH-1000XM4,270.31,2,540.62,Europe,Direct Web
+2026-05-11,Audio & Sound,Marshall Major IV,162.39,2,324.77,Europe,Affiliates
+2026-05-11,Laptops & Computers,HP Pavilion 15,717.48,2,1434.95,Europe,Affiliates
+2026-05-12,Laptops & Computers,Lenovo Legion 5,1202.86,1,1202.86,Asia-Pacific,Affiliates
+2026-05-12,Gaming & Consoles,DualSense Controller,69.83,2,139.66,Europe,Direct Web
+2026-05-12,Laptops & Computers,HP Pavilion 15,738.25,1,738.25,Europe,Direct Web
+2026-05-13,Gaming & Consoles,Razer DeathAdder V3,71.88,1,71.88,North America,Affiliates
+2026-05-13,Gaming & Consoles,DualSense Controller,64.47,1,64.47,South America,Affiliates
+2026-05-13,Laptops & Computers,HP Pavilion 15,765.04,1,765.04,North America,Social Media
+2026-05-13,Smartphones & Tablets,iPad Air 5,592.87,1,592.87,Europe,Affiliates
+2026-05-13,Smartphones & Tablets,Google Pixel 8,651.33,2,1302.66,South America,Amazon Marketplace
+2026-05-13,Gaming & Consoles,PlayStation 5 Console,467.08,3,1401.25,North America,Amazon Marketplace
+2026-05-14,Laptops & Computers,Lenovo Legion 5,1194.62,1,1194.62,North America,Affiliates
+2026-05-14,Smartphones & Tablets,Xiaomi Redmi Note 13,317.15,1,317.15,North America,Direct Web
+2026-05-14,Laptops & Computers,Lenovo Legion 5,1200.8,1,1200.8,South America,Social Media
+2026-05-14,Laptops & Computers,MacBook Pro M3,1756.62,1,1756.62,South America,Direct Web
+2026-05-14,Laptops & Computers,Lenovo Legion 5,1390.05,1,1390.05,Europe,Affiliates
+2026-05-15,Smart Home,Amazon Echo Dot 5,47.48,3,142.43,South America,Amazon Marketplace
+2026-05-15,Laptops & Computers,ASUS ROG Strix,1358.35,1,1358.35,Europe,Social Media
+2026-05-15,Smart Home,Ring Video Doorbell,90.13,1,90.13,North America,Direct Web
+2026-05-16,Gaming & Consoles,PlayStation 5 Console,463.29,1,463.29,North America,Direct Web
+2026-05-16,Smartphones & Tablets,Samsung Galaxy S24,847.47,3,2542.4,South America,Affiliates
+2026-05-16,Smartphones & Tablets,Xiaomi Redmi Note 13,308.88,2,617.75,South America,Social Media
+2026-05-16,Smartphones & Tablets,iPad Air 5,557.95,3,1673.84,North America,Amazon Marketplace
+2026-05-17,Smartphones & Tablets,Xiaomi Redmi Note 13,276.21,2,552.42,North America,Affiliates
+2026-05-17,Smartphones & Tablets,iPhone 15 Pro,1051.89,1,1051.89,North America,Social Media
+2026-05-17,Smartphones & Tablets,iPad Air 5,619.49,1,619.49,South America,Direct Web
+2026-05-17,Smartphones & Tablets,Samsung Galaxy S24,887.37,2,1774.74,North America,Affiliates
+2026-05-18,Gaming & Consoles,Nintendo Switch OLED,352.44,1,352.44,Europe,Direct Web
+2026-05-18,Laptops & Computers,ASUS ROG Strix,1442.63,1,1442.63,Europe,Direct Web
+2026-05-19,Audio & Sound,Marshall Major IV,148.48,1,148.48,North America,Affiliates
+2026-05-19,Smart Home,Philips Hue Bulb Kit,79.11,1,79.11,Asia-Pacific,Affiliates
+2026-05-20,Audio & Sound,JBL Charge 5,145.64,1,145.64,South America,Affiliates
+2026-05-20,Audio & Sound,Bose QuietComfort,355.75,1,355.75,Europe,Affiliates
+2026-05-21,Laptops & Computers,Lenovo Legion 5,1173.27,2,2346.55,Europe,Affiliates
+2026-05-21,Laptops & Computers,HP Pavilion 15,738.45,1,738.45,Europe,Direct Web
+2026-05-21,Laptops & Computers,HP Pavilion 15,646.49,1,646.49,South America,Amazon Marketplace
+2026-05-21,Smartphones & Tablets,iPhone 15 Pro,1058.45,1,1058.45,South America,Amazon Marketplace
+2026-05-22,Gaming & Consoles,DualSense Controller,70.6,1,70.6,North America,Affiliates
+2026-05-22,Smartphones & Tablets,Google Pixel 8,746.99,1,746.99,North America,Direct Web
+2026-05-23,Gaming & Consoles,Razer DeathAdder V3,63.45,1,63.45,North America,Amazon Marketplace
+2026-05-23,Gaming & Consoles,PlayStation 5 Console,504.89,1,504.89,North America,Amazon Marketplace
+2026-05-23,Audio & Sound,AirPods Pro 2,249.05,1,249.05,North America,Amazon Marketplace
+2026-05-23,Audio & Sound,AirPods Pro 2,259.27,1,259.27,North America,Direct Web
+2026-05-24,Gaming & Consoles,DualSense Controller,69.47,1,69.47,Europe,Affiliates
+2026-05-24,Gaming & Consoles,DualSense Controller,69.56,1,69.56,Europe,Affiliates
+2026-05-24,Smartphones & Tablets,Xiaomi Redmi Note 13,294.79,1,294.79,Asia-Pacific,Affiliates
+2026-05-24,Smartphones & Tablets,Samsung Galaxy S24,864.63,1,864.63,South America,Social Media
+2026-05-24,Audio & Sound,JBL Charge 5,148.47,2,296.94,Europe,Social Media
+2026-05-24,Laptops & Computers,Dell XPS 13,1107.51,1,1107.51,Europe,Social Media
+2026-05-24,Gaming & Consoles,Nintendo Switch OLED,381.21,1,381.21,South America,Direct Web
+2026-05-24,Smartphones & Tablets,iPad Air 5,624.69,1,624.69,North America,Amazon Marketplace
+2026-05-25,Audio & Sound,AirPods Pro 2,271.53,2,543.07,Asia-Pacific,Amazon Marketplace
+2026-05-25,Smartphones & Tablets,iPad Air 5,566.26,3,1698.79,South America,Direct Web
+2026-05-25,Gaming & Consoles,PlayStation 5 Console,536.86,2,1073.72,South America,Direct Web
+2026-05-25,Gaming & Consoles,DualSense Controller,73.26,2,146.52,North America,Affiliates
+2026-05-25,Smart Home,Amazon Echo Dot 5,50.74,1,50.74,North America,Affiliates
+2026-05-25,Laptops & Computers,Dell XPS 13,1228.98,2,2457.96,Europe,Social Media
+2026-05-26,Smart Home,Ring Video Doorbell,95.37,1,95.37,Europe,Social Media
+2026-05-26,Audio & Sound,JBL Charge 5,158.43,1,158.43,North America,Direct Web
+2026-05-26,Smartphones & Tablets,Google Pixel 8,699.21,1,699.21,North America,Social Media
+2026-05-27,Audio & Sound,Bose QuietComfort,300.76,1,300.76,South America,Amazon Marketplace
+2026-05-27,Gaming & Consoles,Nintendo Switch OLED,335.94,3,1007.81,South America,Direct Web
+2026-05-27,Smart Home,Amazon Echo Dot 5,53.27,1,53.27,North America,Direct Web
+2026-05-27,Smart Home,Ring Video Doorbell,105.94,2,211.89,Europe,Amazon Marketplace
+2026-05-27,Smart Home,Philips Hue Bulb Kit,86.61,1,86.61,North America,Affiliates
+2026-05-27,Audio & Sound,Sony WH-1000XM4,285.12,1,285.12,North America,Affiliates
+2026-05-27,Gaming & Consoles,Razer DeathAdder V3,65.52,1,65.52,Europe,Amazon Marketplace
+2026-05-28,Smartphones & Tablets,Google Pixel 8,651.86,1,651.86,North America,Amazon Marketplace
+2026-05-28,Smartphones & Tablets,Google Pixel 8,655.23,2,1310.46,Europe,Social Media
+2026-05-28,Audio & Sound,Marshall Major IV,134.69,1,134.69,Europe,Direct Web
+2026-05-28,Smart Home,Google Nest Hub,96.84,1,96.84,Europe,Social Media
+2026-05-28,Laptops & Computers,HP Pavilion 15,655.86,2,1311.72,North America,Amazon Marketplace
+2026-05-29,Audio & Sound,Bose QuietComfort,323.19,1,323.19,North America,Social Media
+2026-05-29,Audio & Sound,AirPods Pro 2,270.66,4,1082.65,North America,Amazon Marketplace
+2026-05-30,Gaming & Consoles,Nintendo Switch OLED,344.15,1,344.15,South America,Social Media
+2026-05-30,Smartphones & Tablets,iPad Air 5,644.28,1,644.28,Europe,Social Media
+2026-05-30,Audio & Sound,Marshall Major IV,152.14,1,152.14,Europe,Affiliates
+2026-05-30,Audio & Sound,Sony WH-1000XM4,263.94,1,263.94,Europe,Amazon Marketplace
+2026-05-31,Smart Home,Philips Hue Bulb Kit,76.72,1,76.72,Asia-Pacific,Social Media
+2026-05-31,Smart Home,Amazon Echo Dot 5,44.92,2,89.84,Europe,Direct Web
+2026-05-31,Laptops & Computers,HP Pavilion 15,675.72,3,2027.15,North America,Social Media
+2026-05-31,Gaming & Consoles,PlayStation 5 Console,516.72,2,1033.44,North America,Social Media
+2026-05-31,Laptops & Computers,HP Pavilion 15,639.18,1,639.18,Europe,Direct Web
+2026-05-31,Smart Home,Google Nest Hub,93.17,1,93.17,North America,Amazon Marketplace
+2026-06-01,Smartphones & Tablets,Samsung Galaxy S24,877.68,1,877.68,North America,Affiliates
+2026-06-01,Smart Home,Xiaomi Smart Air Purifier,174.33,1,174.33,South America,Affiliates
+2026-06-01,Gaming & Consoles,Nintendo Switch OLED,368.88,2,737.77,Europe,Affiliates
+2026-06-01,Smart Home,Xiaomi Smart Air Purifier,166.42,1,166.42,North America,Direct Web
+2026-06-01,Gaming & Consoles,DualSense Controller,63.7,1,63.7,Europe,Social Media
+2026-06-01,Gaming & Consoles,Razer DeathAdder V3,72.88,1,72.88,Europe,Amazon Marketplace
+2026-06-01,Gaming & Consoles,PlayStation 5 Console,527.47,4,2109.88,South America,Social Media
+2026-06-02,Gaming & Consoles,DualSense Controller,70.4,1,70.4,North America,Affiliates
+2026-06-02,Gaming & Consoles,Xbox Series X,547.94,1,547.94,North America,Social Media
+2026-06-02,Smartphones & Tablets,iPad Air 5,578.07,1,578.07,Europe,Direct Web
+2026-06-03,Laptops & Computers,HP Pavilion 15,760.69,1,760.69,Europe,Direct Web
+2026-06-03,Audio & Sound,Bose QuietComfort,356.29,1,356.29,Europe,Amazon Marketplace
+2026-06-03,Laptops & Computers,MacBook Pro M3,1713.46,1,1713.46,South America,Amazon Marketplace
+2026-06-03,Gaming & Consoles,Nintendo Switch OLED,345.52,2,691.04,North America,Affiliates
+2026-06-03,Smartphones & Tablets,Samsung Galaxy S24,984.78,1,984.78,North America,Amazon Marketplace
+2026-06-04,Smart Home,Ring Video Doorbell,91.14,2,182.28,Europe,Social Media
+2026-06-04,Smartphones & Tablets,Xiaomi Redmi Note 13,301.86,4,1207.43,North America,Direct Web
+2026-06-05,Gaming & Consoles,PlayStation 5 Console,546.8,2,1093.6,North America,Direct Web
+2026-06-05,Smartphones & Tablets,Google Pixel 8,706.76,1,706.76,South America,Direct Web
+2026-06-06,Smartphones & Tablets,Samsung Galaxy S24,843.23,1,843.23,North America,Amazon Marketplace
+2026-06-06,Gaming & Consoles,Nintendo Switch OLED,354.74,2,709.47,North America,Direct Web
+2026-06-06,Smartphones & Tablets,Xiaomi Redmi Note 13,281.33,2,562.65,South America,Direct Web
+2026-06-06,Audio & Sound,Bose QuietComfort,330.3,1,330.3,North America,Direct Web
+2026-06-06,Audio & Sound,AirPods Pro 2,227.79,2,455.57,North America,Affiliates
+2026-06-07,Smartphones & Tablets,Google Pixel 8,713.75,1,713.75,Europe,Affiliates
+2026-06-07,Smart Home,Ring Video Doorbell,99.33,1,99.33,Europe,Amazon Marketplace
+2026-06-07,Gaming & Consoles,Xbox Series X,522.97,1,522.97,North America,Direct Web
+2026-06-07,Audio & Sound,Sony WH-1000XM4,285.27,1,285.27,Europe,Amazon Marketplace
+2026-06-07,Smart Home,Xiaomi Smart Air Purifier,160.58,1,160.58,North America,Direct Web
+2026-06-08,Smartphones & Tablets,iPad Air 5,621.74,2,1243.47,South America,Direct Web
+2026-06-09,Smart Home,Ring Video Doorbell,91.95,1,91.95,Europe,Direct Web
+2026-06-09,Laptops & Computers,Lenovo Legion 5,1323.77,1,1323.77,Europe,Amazon Marketplace
+2026-06-09,Audio & Sound,Sony WH-1000XM4,259.77,1,259.77,Europe,Amazon Marketplace
+2026-06-09,Smartphones & Tablets,iPad Air 5,649.98,1,649.98,North America,Direct Web
+2026-06-09,Gaming & Consoles,Xbox Series X,455.92,1,455.92,North America,Social Media
+2026-06-09,Smartphones & Tablets,Samsung Galaxy S24,886.48,2,1772.96,Europe,Amazon Marketplace
+2026-06-09,Gaming & Consoles,Nintendo Switch OLED,362.67,2,725.33,North America,Affiliates
+2026-06-10,Smartphones & Tablets,iPhone 15 Pro,990.61,2,1981.23,North America,Amazon Marketplace
+2026-06-10,Smart Home,Amazon Echo Dot 5,45.0,2,90.01,Europe,Direct Web
+2026-06-10,Smart Home,Xiaomi Smart Air Purifier,160.7,1,160.7,Europe,Social Media
+2026-06-10,Smart Home,Ring Video Doorbell,101.8,1,101.8,Europe,Direct Web
+2026-06-10,Laptops & Computers,ASUS ROG Strix,1560.1,1,1560.1,North America,Affiliates
+2026-06-10,Gaming & Consoles,Nintendo Switch OLED,340.15,1,340.15,Europe,Amazon Marketplace
+2026-06-10,Smart Home,Philips Hue Bulb Kit,80.01,4,320.02,North America,Amazon Marketplace
+2026-06-11,Laptops & Computers,MacBook Pro M3,1880.27,1,1880.27,North America,Direct Web
+2026-06-11,Gaming & Consoles,DualSense Controller,71.37,1,71.37,Europe,Direct Web
+2026-06-11,Smartphones & Tablets,Google Pixel 8,710.68,3,2132.04,North America,Affiliates
+2026-06-12,Laptops & Computers,Lenovo Legion 5,1305.69,3,3917.07,North America,Social Media
+2026-06-12,Audio & Sound,AirPods Pro 2,236.53,2,473.05,Europe,Affiliates
+2026-06-12,Laptops & Computers,ASUS ROG Strix,1349.71,1,1349.71,North America,Social Media
+2026-06-12,Laptops & Computers,HP Pavilion 15,653.44,1,653.44,North America,Amazon Marketplace
+2026-06-13,Gaming & Consoles,PlayStation 5 Console,460.78,1,460.78,North America,Social Media
+2026-06-13,Smartphones & Tablets,Xiaomi Redmi Note 13,295.96,1,295.96,South America,Social Media
+2026-06-13,Audio & Sound,Bose QuietComfort,336.39,1,336.39,South America,Amazon Marketplace
+2026-06-14,Smart Home,Amazon Echo Dot 5,46.19,1,46.19,Europe,Amazon Marketplace
+2026-06-14,Smart Home,Philips Hue Bulb Kit,85.94,3,257.81,Europe,Amazon Marketplace
+2026-06-14,Laptops & Computers,HP Pavilion 15,630.03,1,630.03,South America,Affiliates
+2026-06-14,Gaming & Consoles,Xbox Series X,526.18,2,1052.35,Europe,Amazon Marketplace
+2026-06-14,Gaming & Consoles,PlayStation 5 Console,511.5,2,1022.99,North America,Direct Web
+2026-06-15,Smart Home,Xiaomi Smart Air Purifier,154.98,1,154.98,North America,Amazon Marketplace
+2026-06-15,Audio & Sound,JBL Charge 5,135.6,2,271.21,Europe,Amazon Marketplace
+2026-06-16,Smartphones & Tablets,iPhone 15 Pro,1024.47,1,1024.47,North America,Amazon Marketplace
+2026-06-16,Audio & Sound,Marshall Major IV,145.59,1,145.59,Asia-Pacific,Social Media
+2026-06-17,Smartphones & Tablets,Google Pixel 8,759.99,2,1519.98,South America,Affiliates
+2026-06-17,Smart Home,Ring Video Doorbell,99.83,1,99.83,Europe,Amazon Marketplace
+2026-06-17,Smartphones & Tablets,Xiaomi Redmi Note 13,325.29,4,1301.16,South America,Affiliates
+2026-06-18,Gaming & Consoles,DualSense Controller,65.14,1,65.14,South America,Direct Web
+2026-06-19,Laptops & Computers,MacBook Pro M3,1984.73,1,1984.73,North America,Direct Web
+2026-06-19,Laptops & Computers,MacBook Pro M3,1943.53,1,1943.53,Europe,Amazon Marketplace
+2026-06-19,Smart Home,Philips Hue Bulb Kit,82.78,1,82.78,South America,Direct Web
+2026-06-19,Gaming & Consoles,DualSense Controller,65.06,1,65.06,Asia-Pacific,Affiliates
+2026-06-19,Audio & Sound,Marshall Major IV,153.92,2,307.83,North America,Social Media
+2026-06-19,Gaming & Consoles,Xbox Series X,498.8,2,997.61,North America,Amazon Marketplace
+2026-06-20,Laptops & Computers,ASUS ROG Strix,1571.8,2,3143.6,North America,Direct Web
+2026-06-20,Laptops & Computers,MacBook Pro M3,1833.31,1,1833.31,Europe,Affiliates
+2026-06-21,Gaming & Consoles,Nintendo Switch OLED,376.23,2,752.45,Europe,Affiliates
+2026-06-21,Gaming & Consoles,Nintendo Switch OLED,319.98,2,639.97,North America,Direct Web
+2026-06-21,Laptops & Computers,ASUS ROG Strix,1591.1,2,3182.19,Europe,Affiliates
+2026-06-21,Audio & Sound,JBL Charge 5,159.77,1,159.77,North America,Affiliates
+2026-06-21,Smart Home,Google Nest Hub,105.28,2,210.56,Europe,Amazon Marketplace
+2026-06-22,Smart Home,Ring Video Doorbell,99.25,2,198.5,Europe,Affiliates
+2026-06-22,Gaming & Consoles,Razer DeathAdder V3,68.15,1,68.15,North America,Direct Web
+2026-06-22,Smart Home,Philips Hue Bulb Kit,86.84,2,173.68,South America,Amazon Marketplace
+2026-06-22,Laptops & Computers,ASUS ROG Strix,1417.81,1,1417.81,Asia-Pacific,Direct Web
+2026-06-22,Laptops & Computers,ASUS ROG Strix,1513.05,1,1513.05,Europe,Social Media
+2026-06-22,Gaming & Consoles,DualSense Controller,71.36,1,71.36,South America,Direct Web
+2026-06-22,Gaming & Consoles,PlayStation 5 Console,519.05,1,519.05,South America,Direct Web
+2026-06-23,Gaming & Consoles,PlayStation 5 Console,469.46,1,469.46,North America,Amazon Marketplace
+2026-06-23,Audio & Sound,AirPods Pro 2,256.67,2,513.34,South America,Affiliates
+2026-06-24,Smart Home,Amazon Echo Dot 5,52.12,1,52.12,Europe,Direct Web
+2026-06-24,Gaming & Consoles,Nintendo Switch OLED,317.59,2,635.18,Europe,Amazon Marketplace
+2026-06-25,Smartphones & Tablets,iPad Air 5,648.3,3,1944.9,North America,Social Media
+2026-06-25,Smartphones & Tablets,iPad Air 5,542.63,1,542.63,North America,Amazon Marketplace
+2026-06-26,Laptops & Computers,Lenovo Legion 5,1261.58,3,3784.74,North America,Amazon Marketplace
+2026-06-26,Smart Home,Philips Hue Bulb Kit,71.35,4,285.4,North America,Affiliates
+2026-06-26,Gaming & Consoles,PlayStation 5 Console,456.8,2,913.6,North America,Direct Web
+2026-06-26,Smartphones & Tablets,Xiaomi Redmi Note 13,323.59,2,647.18,South America,Social Media
+2026-06-26,Smart Home,Ring Video Doorbell,96.13,4,384.5,North America,Amazon Marketplace
+2026-06-26,Laptops & Computers,Dell XPS 13,1180.96,2,2361.92,North America,Direct Web
+2026-06-27,Audio & Sound,Sony WH-1000XM4,262.17,1,262.17,South America,Direct Web
+2026-06-27,Smart Home,Philips Hue Bulb Kit,80.53,2,161.07,North America,Amazon Marketplace
+2026-06-27,Smart Home,Ring Video Doorbell,100.88,2,201.75,North America,Direct Web
+2026-06-27,Audio & Sound,Sony WH-1000XM4,270.89,1,270.89,North America,Amazon Marketplace
+2026-06-28,Smart Home,Ring Video Doorbell,95.69,1,95.69,North America,Amazon Marketplace
+2026-06-28,Laptops & Computers,ASUS ROG Strix,1614.41,2,3228.82,South America,Amazon Marketplace
+2026-06-28,Laptops & Computers,HP Pavilion 15,682.68,1,682.68,North America,Social Media
+2026-06-28,Audio & Sound,Marshall Major IV,148.81,3,446.42,Europe,Amazon Marketplace
+2026-06-28,Gaming & Consoles,Razer DeathAdder V3,66.01,1,66.01,Asia-Pacific,Affiliates
+2026-06-29,Smartphones & Tablets,Xiaomi Redmi Note 13,316.15,1,316.15,Europe,Direct Web
+2026-06-29,Gaming & Consoles,PlayStation 5 Console,488.77,1,488.77,South America,Social Media
+2026-06-29,Smart Home,Amazon Echo Dot 5,49.13,1,49.13,Europe,Direct Web
+2026-06-29,Smartphones & Tablets,iPhone 15 Pro,949.72,2,1899.44,Europe,Social Media
+2026-06-29,Audio & Sound,Bose QuietComfort,361.09,3,1083.26,North America,Affiliates
+2026-06-29,Audio & Sound,Sony WH-1000XM4,266.41,2,532.81,North America,Social Media
+2026-06-30,Smartphones & Tablets,iPad Air 5,631.43,1,631.43,Europe,Social Media
+2026-06-30,Laptops & Computers,Dell XPS 13,1181.61,1,1181.61,North America,Social Media
+2026-07-01,Smartphones & Tablets,iPad Air 5,563.8,2,1127.61,North America,Direct Web
+2026-07-01,Smart Home,Amazon Echo Dot 5,51.94,3,155.81,Europe,Amazon Marketplace
+2026-07-01,Laptops & Computers,ASUS ROG Strix,1449.12,1,1449.12,Europe,Direct Web
+2026-07-01,Audio & Sound,Sony WH-1000XM4,298.3,1,298.3,North America,Amazon Marketplace
+2026-07-02,Smartphones & Tablets,Xiaomi Redmi Note 13,323.83,1,323.83,South America,Direct Web
+2026-07-02,Gaming & Consoles,Nintendo Switch OLED,374.12,3,1122.35,North America,Affiliates
+2026-07-03,Gaming & Consoles,DualSense Controller,62.58,2,125.17,Europe,Affiliates
+2026-07-03,Smart Home,Ring Video Doorbell,104.69,1,104.69,North America,Social Media
+2026-07-03,Gaming & Consoles,Xbox Series X,490.15,1,490.15,North America,Affiliates
+2026-07-03,Smartphones & Tablets,iPhone 15 Pro,1073.67,3,3221.01,Europe,Social Media
+2026-07-04,Smartphones & Tablets,Google Pixel 8,718.29,1,718.29,South America,Amazon Marketplace
+2026-07-05,Gaming & Consoles,PlayStation 5 Console,532.3,1,532.3,Europe,Affiliates
+2026-07-05,Smartphones & Tablets,Google Pixel 8,698.92,1,698.92,South America,Amazon Marketplace
+2026-07-05,Smart Home,Amazon Echo Dot 5,49.34,1,49.34,North America,Direct Web
+2026-07-06,Laptops & Computers,HP Pavilion 15,649.29,1,649.29,Europe,Amazon Marketplace
+2026-07-06,Smart Home,Philips Hue Bulb Kit,83.49,2,166.97,North America,Direct Web
+2026-07-06,Smart Home,Philips Hue Bulb Kit,77.73,3,233.18,North America,Amazon Marketplace
+2026-07-06,Smartphones & Tablets,Samsung Galaxy S24,899.01,2,1798.03,North America,Amazon Marketplace
+2026-07-06,Laptops & Computers,Dell XPS 13,1267.37,3,3802.1,Europe,Affiliates
+2026-07-07,Smartphones & Tablets,Google Pixel 8,712.82,1,712.82,Asia-Pacific,Amazon Marketplace
+2026-07-07,Audio & Sound,Marshall Major IV,140.09,2,280.19,Asia-Pacific,Affiliates
+2026-07-07,Smartphones & Tablets,Xiaomi Redmi Note 13,304.4,1,304.4,South America,Affiliates
+2026-07-07,Smartphones & Tablets,Google Pixel 8,686.09,2,1372.17,North America,Social Media
+2026-07-08,Smartphones & Tablets,iPad Air 5,595.35,4,2381.4,South America,Social Media
+2026-07-08,Laptops & Computers,HP Pavilion 15,633.06,1,633.06,Europe,Direct Web
+2026-07-08,Smartphones & Tablets,iPhone 15 Pro,941.06,1,941.06,North America,Amazon Marketplace
+2026-07-09,Laptops & Computers,Dell XPS 13,1146.49,1,1146.49,Asia-Pacific,Direct Web
+2026-07-09,Gaming & Consoles,Razer DeathAdder V3,71.94,1,71.94,North America,Amazon Marketplace
+2026-07-09,Audio & Sound,Sony WH-1000XM4,250.84,1,250.84,Asia-Pacific,Social Media
+2026-07-09,Laptops & Computers,Dell XPS 13,1177.12,2,2354.25,Europe,Social Media
+2026-07-09,Gaming & Consoles,PlayStation 5 Console,541.32,4,2165.27,Europe,Amazon Marketplace
+2026-07-09,Laptops & Computers,HP Pavilion 15,644.74,1,644.74,North America,Amazon Marketplace
+2026-07-10,Laptops & Computers,ASUS ROG Strix,1503.92,1,1503.92,North America,Social Media
+2026-07-10,Audio & Sound,Sony WH-1000XM4,293.93,1,293.93,North America,Social Media
+2026-07-10,Smart Home,Google Nest Hub,107.76,3,323.29,North America,Direct Web
+2026-07-11,Smart Home,Amazon Echo Dot 5,51.42,1,51.42,North America,Social Media
+2026-07-11,Laptops & Computers,Dell XPS 13,1251.89,1,1251.89,South America,Amazon Marketplace
+2026-07-11,Smartphones & Tablets,Xiaomi Redmi Note 13,318.52,1,318.52,South America,Direct Web
+2026-07-11,Gaming & Consoles,DualSense Controller,68.26,1,68.26,Europe,Amazon Marketplace
+2026-07-11,Smartphones & Tablets,iPhone 15 Pro,1060.11,1,1060.11,Europe,Affiliates
+2026-07-11,Smartphones & Tablets,iPad Air 5,540.05,3,1620.16,North America,Direct Web
+2026-07-11,Laptops & Computers,Lenovo Legion 5,1409.3,1,1409.3,Asia-Pacific,Amazon Marketplace
+2026-07-13,Laptops & Computers,HP Pavilion 15,691.07,2,1382.15,North America,Social Media
+2026-07-13,Laptops & Computers,Dell XPS 13,1211.8,1,1211.8,South America,Affiliates
+2026-07-13,Laptops & Computers,Dell XPS 13,1140.22,2,2280.44,South America,Amazon Marketplace
+2026-07-13,Smart Home,Philips Hue Bulb Kit,82.83,2,165.66,Europe,Direct Web
+2026-07-14,Laptops & Computers,HP Pavilion 15,639.81,1,639.81,North America,Amazon Marketplace
+2026-07-14,Smart Home,Amazon Echo Dot 5,52.65,1,52.65,South America,Affiliates
+2026-07-14,Smart Home,Xiaomi Smart Air Purifier,169.43,1,169.43,Europe,Direct Web
+2026-07-14,Laptops & Computers,ASUS ROG Strix,1413.87,2,2827.75,North America,Affiliates
+2026-07-15,Audio & Sound,Bose QuietComfort,349.35,1,349.35,Europe,Amazon Marketplace
+2026-07-15,Gaming & Consoles,DualSense Controller,72.95,4,291.81,Asia-Pacific,Social Media
+2026-07-15,Smartphones & Tablets,Xiaomi Redmi Note 13,306.91,1,306.91,Asia-Pacific,Social Media
+2026-07-16,Smart Home,Ring Video Doorbell,96.5,2,192.99,North America,Amazon Marketplace
+2026-07-16,Gaming & Consoles,DualSense Controller,65.85,2,131.69,North America,Amazon Marketplace
+2026-07-16,Audio & Sound,Marshall Major IV,141.01,2,282.01,North America,Amazon Marketplace
+2026-07-17,Smartphones & Tablets,iPad Air 5,577.27,1,577.27,North America,Direct Web
+2026-07-17,Smartphones & Tablets,Xiaomi Redmi Note 13,323.13,1,323.13,North America,Affiliates
+2026-07-17,Smart Home,Google Nest Hub,90.64,2,181.27,North America,Affiliates
+2026-07-17,Laptops & Computers,Lenovo Legion 5,1384.44,1,1384.44,Asia-Pacific,Affiliates
+2026-07-17,Audio & Sound,JBL Charge 5,144.5,1,144.5,Asia-Pacific,Amazon Marketplace
+2026-07-17,Smart Home,Amazon Echo Dot 5,49.21,1,49.21,North America,Affiliates
+2026-07-18,Audio & Sound,Sony WH-1000XM4,294.37,1,294.37,North America,Amazon Marketplace
+2026-07-19,Laptops & Computers,MacBook Pro M3,2044.99,1,2044.99,South America,Direct Web
+2026-07-20,Laptops & Computers,Lenovo Legion 5,1258.67,1,1258.67,North America,Social Media
+2026-07-20,Smart Home,Amazon Echo Dot 5,48.63,1,48.63,Europe,Amazon Marketplace
+2026-07-20,Laptops & Computers,Dell XPS 13,1178.5,2,2357.0,Europe,Amazon Marketplace
+2026-07-21,Gaming & Consoles,DualSense Controller,62.28,2,124.57,Europe,Social Media
+2026-07-21,Smartphones & Tablets,Samsung Galaxy S24,862.31,2,1724.62,Europe,Social Media
+2026-07-21,Smart Home,Philips Hue Bulb Kit,78.36,4,313.42,South America,Direct Web
+2026-07-21,Audio & Sound,JBL Charge 5,146.35,1,146.35,Europe,Affiliates
+2026-07-21,Gaming & Consoles,DualSense Controller,72.06,1,72.06,North America,Amazon Marketplace
+2026-07-21,Smart Home,Google Nest Hub,96.72,1,96.72,South America,Affiliates
+2026-07-22,Laptops & Computers,MacBook Pro M3,1894.97,1,1894.97,South America,Amazon Marketplace
+2026-07-22,Laptops & Computers,MacBook Pro M3,1872.27,3,5616.8,North America,Direct Web
+2026-07-22,Laptops & Computers,Dell XPS 13,1256.7,1,1256.7,North America,Social Media
+2026-07-23,Laptops & Computers,Dell XPS 13,1286.04,1,1286.04,North America,Direct Web
+2026-07-24,Audio & Sound,Sony WH-1000XM4,279.77,1,279.77,Asia-Pacific,Social Media
+2026-07-24,Gaming & Consoles,Nintendo Switch OLED,369.2,1,369.2,North America,Affiliates
+2026-07-25,Smartphones & Tablets,iPad Air 5,574.66,2,1149.31,North America,Affiliates
+2026-07-25,Audio & Sound,Marshall Major IV,150.23,1,150.23,North America,Direct Web
+2026-07-26,Audio & Sound,Bose QuietComfort,318.82,4,1275.26,Europe,Social Media
+2026-07-26,Smartphones & Tablets,iPhone 15 Pro,981.86,1,981.86,North America,Direct Web
+2026-07-26,Smartphones & Tablets,Google Pixel 8,731.49,1,731.49,Asia-Pacific,Social Media
+2026-07-27,Laptops & Computers,Dell XPS 13,1290.52,3,3871.57,Europe,Social Media
+2026-07-27,Audio & Sound,Sony WH-1000XM4,256.96,1,256.96,South America,Affiliates
+2026-07-27,Smart Home,Amazon Echo Dot 5,50.32,3,150.96,Europe,Affiliates
+2026-07-29,Smartphones & Tablets,iPad Air 5,608.84,4,2435.36,North America,Social Media
+2026-07-29,Smartphones & Tablets,Xiaomi Redmi Note 13,276.18,2,552.36,North America,Social Media
+2026-07-30,Gaming & Consoles,DualSense Controller,65.02,2,130.05,Europe,Social Media
+2026-07-31,Smart Home,Amazon Echo Dot 5,47.15,1,47.15,North America,Affiliates
+2026-07-31,Smart Home,Google Nest Hub,92.41,3,277.22,North America,Affiliates
+2026-07-31,Smartphones & Tablets,Google Pixel 8,663.17,1,663.17,South America,Amazon Marketplace
+2026-08-01,Laptops & Computers,Dell XPS 13,1143.27,2,2286.54,North America,Social Media
+2026-08-01,Gaming & Consoles,PlayStation 5 Console,482.6,3,1447.8,Asia-Pacific,Amazon Marketplace
+2026-08-01,Smart Home,Google Nest Hub,103.94,4,415.75,North America,Social Media
+2026-08-02,Smartphones & Tablets,iPad Air 5,607.62,2,1215.23,Europe,Affiliates
+2026-08-02,Smart Home,Amazon Echo Dot 5,53.77,1,53.77,South America,Amazon Marketplace
+2026-08-02,Gaming & Consoles,PlayStation 5 Console,490.49,4,1961.96,Europe,Amazon Marketplace
+2026-08-02,Gaming & Consoles,Razer DeathAdder V3,72.5,2,145.01,North America,Direct Web
+2026-08-03,Audio & Sound,Sony WH-1000XM4,298.65,3,895.96,South America,Social Media
+2026-08-03,Smartphones & Tablets,iPhone 15 Pro,1034.76,2,2069.52,Europe,Affiliates
+2026-08-03,Gaming & Consoles,PlayStation 5 Console,490.2,1,490.2,South America,Direct Web
+2026-08-03,Audio & Sound,Marshall Major IV,156.56,1,156.56,North America,Direct Web
+2026-08-03,Audio & Sound,JBL Charge 5,140.17,1,140.17,South America,Social Media
+2026-08-03,Smart Home,Philips Hue Bulb Kit,76.28,2,152.55,Europe,Direct Web
+2026-08-04,Smart Home,Amazon Echo Dot 5,49.46,1,49.46,South America,Social Media
+2026-08-04,Audio & Sound,Marshall Major IV,151.25,1,151.25,Asia-Pacific,Direct Web
+2026-08-04,Smart Home,Philips Hue Bulb Kit,71.45,1,71.45,North America,Social Media
+2026-08-05,Gaming & Consoles,Nintendo Switch OLED,380.07,2,760.14,South America,Affiliates
+2026-08-05,Laptops & Computers,ASUS ROG Strix,1557.95,1,1557.95,Europe,Social Media
+2026-08-05,Gaming & Consoles,Razer DeathAdder V3,68.94,1,68.94,Europe,Social Media
+2026-08-05,Audio & Sound,Marshall Major IV,161.91,1,161.91,Europe,Amazon Marketplace
+2026-08-05,Audio & Sound,Sony WH-1000XM4,274.61,1,274.61,Asia-Pacific,Affiliates
+2026-08-05,Gaming & Consoles,DualSense Controller,75.63,1,75.63,South America,Affiliates
+2026-08-06,Smart Home,Philips Hue Bulb Kit,79.19,1,79.19,North America,Affiliates
+2026-08-06,Smart Home,Ring Video Doorbell,91.36,1,91.36,North America,Direct Web
+2026-08-06,Audio & Sound,Marshall Major IV,156.89,3,470.67,Europe,Amazon Marketplace
+2026-08-06,Smartphones & Tablets,Google Pixel 8,724.01,3,2172.03,Europe,Affiliates
+2026-08-06,Smart Home,Xiaomi Smart Air Purifier,167.68,1,167.68,North America,Direct Web
+2026-08-06,Gaming & Consoles,DualSense Controller,75.23,4,300.92,North America,Direct Web
+2026-08-08,Smart Home,Xiaomi Smart Air Purifier,167.79,1,167.79,North America,Direct Web
+2026-08-08,Gaming & Consoles,PlayStation 5 Console,510.11,2,1020.22,Europe,Amazon Marketplace
+2026-08-08,Audio & Sound,Marshall Major IV,159.65,2,319.3,North America,Direct Web
+2026-08-08,Smart Home,Google Nest Hub,102.43,1,102.43,South America,Amazon Marketplace
+2026-08-08,Gaming & Consoles,DualSense Controller,67.73,1,67.73,South America,Social Media
+2026-08-08,Audio & Sound,AirPods Pro 2,268.2,1,268.2,Europe,Direct Web
+2026-08-08,Smartphones & Tablets,Google Pixel 8,660.12,1,660.12,Europe,Affiliates
+2026-08-09,Gaming & Consoles,PlayStation 5 Console,520.42,2,1040.84,Europe,Direct Web
+2026-08-10,Smartphones & Tablets,iPad Air 5,644.71,1,644.71,North America,Social Media
+2026-08-10,Smartphones & Tablets,Google Pixel 8,731.34,1,731.34,South America,Social Media
+2026-08-10,Laptops & Computers,MacBook Pro M3,1973.93,1,1973.93,Europe,Direct Web
+2026-08-10,Smart Home,Ring Video Doorbell,104.0,1,104.0,Asia-Pacific,Social Media
+2026-08-10,Gaming & Consoles,Xbox Series X,495.51,1,495.51,North America,Amazon Marketplace
+2026-08-11,Smartphones & Tablets,Samsung Galaxy S24,966.28,1,966.28,North America,Amazon Marketplace
+2026-08-11,Laptops & Computers,Lenovo Legion 5,1221.95,3,3665.86,North America,Direct Web
+2026-08-11,Audio & Sound,Bose QuietComfort,304.48,1,304.48,North America,Amazon Marketplace
+2026-08-11,Gaming & Consoles,PlayStation 5 Console,477.59,1,477.59,Europe,Amazon Marketplace
+2026-08-11,Smartphones & Tablets,Xiaomi Redmi Note 13,300.89,2,601.78,North America,Affiliates
+2026-08-11,Smart Home,Google Nest Hub,99.21,1,99.21,South America,Direct Web
+2026-08-12,Laptops & Computers,Dell XPS 13,1275.88,2,2551.76,North America,Social Media
+2026-08-12,Smartphones & Tablets,iPad Air 5,587.57,2,1175.13,North America,Direct Web
+2026-08-12,Smart Home,Ring Video Doorbell,98.69,1,98.69,South America,Amazon Marketplace
+2026-08-12,Smartphones & Tablets,Xiaomi Redmi Note 13,269.9,1,269.9,North America,Affiliates
+2026-08-12,Gaming & Consoles,PlayStation 5 Console,489.99,1,489.99,North America,Direct Web
+2026-08-13,Gaming & Consoles,PlayStation 5 Console,513.75,1,513.75,Europe,Direct Web
+2026-08-13,Gaming & Consoles,DualSense Controller,62.31,1,62.31,South America,Amazon Marketplace
+2026-08-13,Laptops & Computers,Lenovo Legion 5,1242.07,1,1242.07,North America,Amazon Marketplace
+2026-08-13,Gaming & Consoles,Nintendo Switch OLED,328.62,1,328.62,Asia-Pacific,Direct Web
+2026-08-13,Smart Home,Amazon Echo Dot 5,44.51,1,44.51,Europe,Amazon Marketplace
+2026-08-14,Smartphones & Tablets,Samsung Galaxy S24,895.27,2,1790.54,Europe,Amazon Marketplace
+2026-08-14,Audio & Sound,Marshall Major IV,139.52,1,139.52,North America,Amazon Marketplace
+2026-08-14,Smart Home,Amazon Echo Dot 5,51.38,1,51.38,North America,Amazon Marketplace
+2026-08-14,Smart Home,Google Nest Hub,105.89,1,105.89,North America,Amazon Marketplace
+2026-08-15,Gaming & Consoles,Xbox Series X,503.55,3,1510.65,North America,Affiliates
+2026-08-15,Laptops & Computers,ASUS ROG Strix,1643.42,1,1643.42,South America,Amazon Marketplace
+2026-08-15,Smartphones & Tablets,iPad Air 5,593.07,3,1779.2,Asia-Pacific,Social Media
+2026-08-15,Laptops & Computers,Dell XPS 13,1202.21,1,1202.21,South America,Direct Web
+2026-08-15,Smartphones & Tablets,Samsung Galaxy S24,986.96,2,1973.92,North America,Affiliates
+2026-08-16,Smartphones & Tablets,Samsung Galaxy S24,850.73,1,850.73,South America,Affiliates
+2026-08-16,Laptops & Computers,ASUS ROG Strix,1631.68,1,1631.68,North America,Amazon Marketplace
+2026-08-16,Smart Home,Amazon Echo Dot 5,44.52,1,44.52,Europe,Direct Web
+2026-08-17,Smartphones & Tablets,iPhone 15 Pro,988.29,1,988.29,South America,Social Media
+2026-08-17,Laptops & Computers,HP Pavilion 15,638.89,1,638.89,Europe,Amazon Marketplace
+2026-08-17,Smartphones & Tablets,iPad Air 5,626.46,1,626.46,Asia-Pacific,Direct Web
+2026-08-17,Audio & Sound,Bose QuietComfort,336.13,2,672.27,North America,Amazon Marketplace
+2026-08-17,Smart Home,Philips Hue Bulb Kit,82.26,3,246.79,South America,Amazon Marketplace
+2026-08-17,Gaming & Consoles,Razer DeathAdder V3,67.27,1,67.27,Asia-Pacific,Amazon Marketplace
+2026-08-17,Smartphones & Tablets,Samsung Galaxy S24,875.53,1,875.53,Europe,Amazon Marketplace
+2026-08-18,Audio & Sound,Marshall Major IV,135.45,1,135.45,South America,Amazon Marketplace
+2026-08-18,Gaming & Consoles,Nintendo Switch OLED,338.53,2,677.05,Asia-Pacific,Amazon Marketplace
+2026-08-19,Gaming & Consoles,Xbox Series X,541.84,1,541.84,North America,Amazon Marketplace
+2026-08-19,Smartphones & Tablets,iPhone 15 Pro,974.87,4,3899.48,Asia-Pacific,Social Media
+2026-08-19,Laptops & Computers,MacBook Pro M3,2024.85,1,2024.85,North America,Affiliates
+2026-08-19,Smartphones & Tablets,Xiaomi Redmi Note 13,319.47,1,319.47,South America,Social Media
+2026-08-19,Audio & Sound,JBL Charge 5,145.22,2,290.45,Europe,Amazon Marketplace
+2026-08-19,Gaming & Consoles,Nintendo Switch OLED,358.21,2,716.43,North America,Amazon Marketplace
+2026-08-21,Smartphones & Tablets,iPhone 15 Pro,918.16,1,918.16,South America,Social Media
+2026-08-21,Laptops & Computers,Dell XPS 13,1103.96,1,1103.96,North America,Social Media
+2026-08-21,Smartphones & Tablets,Samsung Galaxy S24,817.85,4,3271.39,Asia-Pacific,Affiliates
+2026-08-21,Smart Home,Xiaomi Smart Air Purifier,161.58,1,161.58,Europe,Social Media
+2026-08-21,Laptops & Computers,Dell XPS 13,1181.27,3,3543.82,Europe,Affiliates
+2026-08-21,Audio & Sound,Sony WH-1000XM4,280.67,1,280.67,South America,Amazon Marketplace
+2026-08-21,Gaming & Consoles,PlayStation 5 Console,501.1,2,1002.21,Europe,Direct Web
+2026-08-21,Smartphones & Tablets,iPhone 15 Pro,969.07,2,1938.14,North America,Direct Web
+2026-08-22,Laptops & Computers,HP Pavilion 15,723.81,1,723.81,South America,Direct Web
+2026-08-22,Smart Home,Xiaomi Smart Air Purifier,167.22,3,501.66,Europe,Direct Web
+2026-08-23,Laptops & Computers,ASUS ROG Strix,1353.49,1,1353.49,North America,Amazon Marketplace
+2026-08-23,Smart Home,Google Nest Hub,93.2,1,93.2,North America,Direct Web
+2026-08-24,Audio & Sound,Bose QuietComfort,343.03,1,343.03,North America,Social Media
+2026-08-24,Gaming & Consoles,Nintendo Switch OLED,341.09,1,341.09,North America,Social Media
+2026-08-24,Audio & Sound,Marshall Major IV,153.84,2,307.68,Europe,Direct Web
+2026-08-24,Smartphones & Tablets,iPhone 15 Pro,968.42,1,968.42,South America,Social Media
+2026-08-25,Laptops & Computers,Dell XPS 13,1172.8,1,1172.8,Europe,Affiliates
+2026-08-25,Smart Home,Google Nest Hub,92.24,1,92.24,North America,Amazon Marketplace
+2026-08-25,Smart Home,Ring Video Doorbell,94.21,1,94.21,North America,Direct Web
+2026-08-25,Laptops & Computers,HP Pavilion 15,713.74,1,713.74,North America,Direct Web
+2026-08-26,Laptops & Computers,Lenovo Legion 5,1281.64,2,2563.27,Europe,Amazon Marketplace
+2026-08-26,Smartphones & Tablets,iPad Air 5,631.86,3,1895.58,Europe,Social Media
+2026-08-26,Audio & Sound,JBL Charge 5,159.51,2,319.01,Asia-Pacific,Amazon Marketplace
+2026-08-27,Smart Home,Ring Video Doorbell,99.82,1,99.82,Europe,Amazon Marketplace
+2026-08-27,Smartphones & Tablets,Xiaomi Redmi Note 13,314.44,1,314.44,South America,Social Media
+2026-08-27,Audio & Sound,Sony WH-1000XM4,267.26,1,267.26,Europe,Amazon Marketplace
+2026-08-27,Smartphones & Tablets,iPad Air 5,588.81,1,588.81,Asia-Pacific,Social Media
+2026-08-27,Smart Home,Google Nest Hub,103.21,1,103.21,Europe,Social Media
+2026-08-27,Laptops & Computers,ASUS ROG Strix,1464.89,1,1464.89,North America,Amazon Marketplace
+2026-08-28,Laptops & Computers,MacBook Pro M3,1932.61,1,1932.61,South America,Affiliates
+2026-08-28,Audio & Sound,Bose QuietComfort,308.3,3,924.89,Europe,Social Media
+2026-08-28,Gaming & Consoles,DualSense Controller,70.38,1,70.38,Europe,Amazon Marketplace
+2026-08-29,Audio & Sound,Sony WH-1000XM4,298.1,1,298.1,North America,Social Media
+2026-08-30,Gaming & Consoles,Xbox Series X,535.79,1,535.79,Europe,Affiliates
+2026-08-30,Smartphones & Tablets,Xiaomi Redmi Note 13,312.42,1,312.42,Asia-Pacific,Affiliates
+2026-08-30,Smartphones & Tablets,Google Pixel 8,733.36,3,2200.07,North America,Direct Web
+2026-08-30,Smart Home,Ring Video Doorbell,100.15,1,100.15,Europe,Social Media
+2026-08-31,Gaming & Consoles,Razer DeathAdder V3,70.17,1,70.17,North America,Social Media
+2026-08-31,Smart Home,Amazon Echo Dot 5,45.41,1,45.41,North America,Amazon Marketplace
+2026-08-31,Laptops & Computers,MacBook Pro M3,1877.68,1,1877.68,North America,Social Media
+2026-09-01,Gaming & Consoles,DualSense Controller,68.32,1,68.32,North America,Direct Web
+2026-09-01,Audio & Sound,JBL Charge 5,162.66,2,325.33,Europe,Affiliates
+2026-09-03,Laptops & Computers,Dell XPS 13,1182.47,2,2364.95,North America,Affiliates
+2026-09-03,Laptops & Computers,Lenovo Legion 5,1311.82,2,2623.64,North America,Direct Web
+2026-09-04,Audio & Sound,Bose QuietComfort,331.19,1,331.19,North America,Social Media
+2026-09-04,Laptops & Computers,Lenovo Legion 5,1334.53,2,2669.06,North America,Social Media
+2026-09-04,Gaming & Consoles,DualSense Controller,72.43,1,72.43,North America,Direct Web
+2026-09-04,Smart Home,Philips Hue Bulb Kit,74.66,1,74.66,Europe,Amazon Marketplace
+2026-09-04,Laptops & Computers,ASUS ROG Strix,1507.61,2,3015.22,North America,Affiliates
+2026-09-04,Gaming & Consoles,Nintendo Switch OLED,371.75,1,371.75,Europe,Direct Web
+2026-09-04,Smartphones & Tablets,iPad Air 5,594.58,1,594.58,Europe,Direct Web
+2026-09-06,Gaming & Consoles,PlayStation 5 Console,476.89,2,953.78,North America,Social Media
+2026-09-06,Smart Home,Amazon Echo Dot 5,50.52,1,50.52,Europe,Affiliates
+2026-09-06,Gaming & Consoles,Razer DeathAdder V3,73.47,1,73.47,North America,Social Media
+2026-09-06,Audio & Sound,AirPods Pro 2,227.24,1,227.24,North America,Direct Web
+2026-09-06,Smart Home,Ring Video Doorbell,104.48,3,313.44,North America,Amazon Marketplace
+2026-09-07,Smartphones & Tablets,Xiaomi Redmi Note 13,318.23,4,1272.94,North America,Affiliates
+2026-09-07,Audio & Sound,Sony WH-1000XM4,275.86,3,827.58,South America,Direct Web
+2026-09-07,Gaming & Consoles,DualSense Controller,75.67,1,75.67,Europe,Direct Web
+2026-09-08,Smart Home,Amazon Echo Dot 5,51.81,1,51.81,North America,Amazon Marketplace
+2026-09-08,Smartphones & Tablets,Google Pixel 8,737.26,1,737.26,Europe,Direct Web
+2026-09-08,Audio & Sound,AirPods Pro 2,261.34,1,261.34,North America,Direct Web
+2026-09-09,Smartphones & Tablets,Google Pixel 8,650.16,1,650.16,Europe,Affiliates
+2026-09-09,Gaming & Consoles,Nintendo Switch OLED,329.26,1,329.26,North America,Affiliates
+2026-09-09,Smartphones & Tablets,iPad Air 5,594.69,1,594.69,North America,Affiliates
+2026-09-09,Laptops & Computers,ASUS ROG Strix,1428.25,4,5712.99,North America,Social Media
+2026-09-09,Audio & Sound,Marshall Major IV,146.47,1,146.47,North America,Amazon Marketplace
+2026-09-09,Smartphones & Tablets,Xiaomi Redmi Note 13,322.23,1,322.23,South America,Affiliates
+2026-09-09,Gaming & Consoles,Xbox Series X,531.37,1,531.37,Europe,Social Media
+2026-09-10,Gaming & Consoles,Nintendo Switch OLED,358.08,3,1074.23,North America,Social Media
+2026-09-10,Smartphones & Tablets,iPad Air 5,641.9,2,1283.81,Europe,Amazon Marketplace
+2026-09-10,Gaming & Consoles,Nintendo Switch OLED,368.81,2,737.61,Europe,Amazon Marketplace
+2026-09-10,Smart Home,Google Nest Hub,97.59,3,292.78,Europe,Direct Web
+2026-09-10,Smart Home,Philips Hue Bulb Kit,74.28,1,74.28,North America,Social Media
+2026-09-10,Smart Home,Google Nest Hub,99.28,1,99.28,South America,Affiliates
+2026-09-11,Laptops & Computers,ASUS ROG Strix,1569.82,1,1569.82,Asia-Pacific,Amazon Marketplace
+2026-09-11,Smartphones & Tablets,Google Pixel 8,690.11,1,690.11,Europe,Social Media
+2026-09-11,Laptops & Computers,Dell XPS 13,1238.99,1,1238.99,North America,Affiliates
+2026-09-11,Gaming & Consoles,Xbox Series X,458.51,1,458.51,North America,Social Media
+2026-09-11,Laptops & Computers,Dell XPS 13,1258.47,3,3775.41,North America,Amazon Marketplace
+2026-09-12,Gaming & Consoles,Xbox Series X,530.21,4,2120.84,South America,Direct Web
+2026-09-12,Gaming & Consoles,Razer DeathAdder V3,71.85,2,143.71,Europe,Social Media
+2026-09-12,Audio & Sound,Marshall Major IV,162.92,2,325.85,North America,Affiliates
+2026-09-12,Smart Home,Google Nest Hub,105.47,2,210.94,South America,Amazon Marketplace
+2026-09-13,Gaming & Consoles,DualSense Controller,74.56,1,74.56,South America,Direct Web
+2026-09-13,Audio & Sound,Marshall Major IV,161.92,1,161.92,South America,Affiliates
+2026-09-13,Smart Home,Philips Hue Bulb Kit,83.76,2,167.52,Europe,Affiliates
+2026-09-14,Gaming & Consoles,DualSense Controller,71.4,2,142.81,Europe,Affiliates
+2026-09-14,Gaming & Consoles,Xbox Series X,449.67,1,449.67,North America,Social Media
+2026-09-14,Laptops & Computers,HP Pavilion 15,694.22,3,2082.67,Europe,Amazon Marketplace
+2026-09-14,Laptops & Computers,MacBook Pro M3,1926.03,1,1926.03,North America,Affiliates
+2026-09-14,Smart Home,Amazon Echo Dot 5,47.08,1,47.08,North America,Social Media
+2026-09-14,Gaming & Consoles,Razer DeathAdder V3,66.49,2,132.98,North America,Amazon Marketplace
+2026-09-15,Smartphones & Tablets,Google Pixel 8,763.47,1,763.47,North America,Amazon Marketplace
+2026-09-15,Laptops & Computers,ASUS ROG Strix,1616.43,1,1616.43,North America,Social Media
+2026-09-16,Smart Home,Ring Video Doorbell,105.91,1,105.91,North America,Social Media
+2026-09-16,Gaming & Consoles,PlayStation 5 Console,489.62,2,979.24,Europe,Affiliates
+2026-09-16,Gaming & Consoles,Razer DeathAdder V3,62.29,1,62.29,North America,Amazon Marketplace
+2026-09-16,Smartphones & Tablets,Xiaomi Redmi Note 13,273.9,2,547.79,Europe,Direct Web
+2026-09-16,Smart Home,Xiaomi Smart Air Purifier,153.03,1,153.03,North America,Social Media
+2026-09-16,Gaming & Consoles,Razer DeathAdder V3,62.32,1,62.32,Asia-Pacific,Amazon Marketplace
+2026-09-17,Laptops & Computers,MacBook Pro M3,1715.61,4,6862.45,Europe,Amazon Marketplace
+2026-09-17,Smartphones & Tablets,iPhone 15 Pro,1082.24,1,1082.24,North America,Affiliates
+2026-09-18,Smart Home,Xiaomi Smart Air Purifier,165.56,4,662.22,Europe,Direct Web
+2026-09-18,Smartphones & Tablets,Samsung Galaxy S24,864.65,1,864.65,South America,Affiliates
+2026-09-18,Laptops & Computers,Dell XPS 13,1110.91,4,4443.63,Europe,Direct Web
+2026-09-18,Smart Home,Xiaomi Smart Air Purifier,159.37,1,159.37,South America,Direct Web
+2026-09-19,Smartphones & Tablets,iPad Air 5,539.74,1,539.74,Europe,Social Media
+2026-09-19,Audio & Sound,JBL Charge 5,162.06,1,162.06,Europe,Amazon Marketplace
+2026-09-20,Laptops & Computers,ASUS ROG Strix,1473.46,1,1473.46,South America,Amazon Marketplace
+2026-09-20,Laptops & Computers,Lenovo Legion 5,1273.63,2,2547.25,North America,Amazon Marketplace
+2026-09-21,Laptops & Computers,Lenovo Legion 5,1270.58,1,1270.58,Europe,Direct Web
+2026-09-21,Audio & Sound,Marshall Major IV,136.17,1,136.17,North America,Amazon Marketplace
+2026-09-21,Audio & Sound,JBL Charge 5,153.12,1,153.12,South America,Social Media
+2026-09-21,Gaming & Consoles,Xbox Series X,522.25,1,522.25,North America,Direct Web
+2026-09-21,Smartphones & Tablets,iPhone 15 Pro,1034.19,2,2068.38,South America,Direct Web
+2026-09-21,Gaming & Consoles,Razer DeathAdder V3,64.01,1,64.01,Asia-Pacific,Direct Web
+2026-09-21,Smartphones & Tablets,Xiaomi Redmi Note 13,303.71,2,607.43,North America,Direct Web
+2026-09-21,Audio & Sound,Marshall Major IV,151.07,2,302.14,North America,Social Media
+2026-09-22,Audio & Sound,Bose QuietComfort,353.24,2,706.48,Europe,Amazon Marketplace
+2026-09-22,Gaming & Consoles,Nintendo Switch OLED,340.56,1,340.56,Europe,Social Media
+2026-09-22,Smart Home,Ring Video Doorbell,96.46,2,192.91,South America,Amazon Marketplace
+2026-09-23,Gaming & Consoles,Nintendo Switch OLED,357.27,4,1429.09,North America,Social Media
+2026-09-24,Smartphones & Tablets,iPhone 15 Pro,1025.59,2,2051.18,Asia-Pacific,Affiliates
+2026-09-24,Gaming & Consoles,DualSense Controller,68.58,1,68.58,Europe,Affiliates
+2026-09-24,Laptops & Computers,Dell XPS 13,1185.35,2,2370.69,North America,Affiliates
+2026-09-24,Smartphones & Tablets,iPad Air 5,598.3,2,1196.6,North America,Affiliates
+2026-09-25,Smartphones & Tablets,Google Pixel 8,749.47,2,1498.95,South America,Direct Web
+2026-09-25,Smart Home,Google Nest Hub,98.23,1,98.23,North America,Direct Web
+2026-09-25,Audio & Sound,JBL Charge 5,162.11,1,162.11,North America,Social Media
+2026-09-25,Smartphones & Tablets,Xiaomi Redmi Note 13,299.24,2,598.48,Europe,Social Media
+2026-09-25,Audio & Sound,JBL Charge 5,162.39,1,162.39,North America,Affiliates
+2026-09-26,Gaming & Consoles,Razer DeathAdder V3,73.59,2,147.19,Europe,Amazon Marketplace
+2026-09-27,Laptops & Computers,MacBook Pro M3,1846.75,1,1846.75,North America,Affiliates
+2026-09-27,Smart Home,Philips Hue Bulb Kit,84.75,1,84.75,Europe,Social Media
+2026-09-28,Audio & Sound,Bose QuietComfort,303.34,1,303.34,Europe,Affiliates
+2026-09-28,Smartphones & Tablets,Samsung Galaxy S24,975.42,1,975.42,North America,Social Media
+2026-09-28,Audio & Sound,Sony WH-1000XM4,285.32,4,1141.28,South America,Affiliates
+2026-09-28,Smartphones & Tablets,Samsung Galaxy S24,818.88,3,2456.64,North America,Amazon Marketplace
+2026-09-29,Audio & Sound,JBL Charge 5,153.3,2,306.6,Europe,Affiliates
+2026-09-29,Smartphones & Tablets,Google Pixel 8,765.3,1,765.3,Europe,Amazon Marketplace
+2026-09-30,Gaming & Consoles,Razer DeathAdder V3,63.06,2,126.13,South America,Amazon Marketplace
+2026-09-30,Smartphones & Tablets,Xiaomi Redmi Note 13,302.27,2,604.54,South America,Social Media
+2026-09-30,Smartphones & Tablets,Google Pixel 8,733.64,1,733.64,North America,Amazon Marketplace
+2026-09-30,Laptops & Computers,MacBook Pro M3,2016.84,1,2016.84,Europe,Direct Web
+2026-09-30,Smartphones & Tablets,Google Pixel 8,686.95,2,1373.91,North America,Direct Web
+2026-10-01,Laptops & Computers,HP Pavilion 15,657.64,2,1315.28,North America,Direct Web
+2026-10-01,Smart Home,Philips Hue Bulb Kit,71.77,4,287.08,South America,Social Media
+2026-10-02,Laptops & Computers,ASUS ROG Strix,1522.9,1,1522.9,North America,Direct Web
+2026-10-02,Gaming & Consoles,Razer DeathAdder V3,68.35,2,136.7,Europe,Social Media
+2026-10-02,Laptops & Computers,Lenovo Legion 5,1415.58,1,1415.58,North America,Social Media
+2026-10-04,Smart Home,Philips Hue Bulb Kit,72.06,1,72.06,Europe,Direct Web
+2026-10-04,Gaming & Consoles,Razer DeathAdder V3,71.56,1,71.56,North America,Amazon Marketplace
+2026-10-04,Audio & Sound,Bose QuietComfort,297.74,1,297.74,North America,Affiliates
+2026-10-04,Audio & Sound,Marshall Major IV,139.21,1,139.21,Europe,Social Media
+2026-10-04,Laptops & Computers,ASUS ROG Strix,1485.08,1,1485.08,Asia-Pacific,Direct Web
+2026-10-04,Laptops & Computers,HP Pavilion 15,692.69,2,1385.38,Europe,Social Media
+2026-10-05,Smart Home,Xiaomi Smart Air Purifier,164.91,2,329.81,North America,Amazon Marketplace
+2026-10-06,Smart Home,Amazon Echo Dot 5,53.02,1,53.02,North America,Amazon Marketplace
+2026-10-06,Smartphones & Tablets,Xiaomi Redmi Note 13,307.31,3,921.94,Europe,Direct Web
+2026-10-07,Smart Home,Amazon Echo Dot 5,53.44,1,53.44,South America,Social Media
+2026-10-07,Smartphones & Tablets,Samsung Galaxy S24,967.61,1,967.61,North America,Affiliates
+2026-10-07,Gaming & Consoles,DualSense Controller,70.17,2,140.33,Europe,Affiliates
+2026-10-07,Laptops & Computers,MacBook Pro M3,2025.77,1,2025.77,Europe,Social Media
+2026-10-07,Gaming & Consoles,Nintendo Switch OLED,358.95,1,358.95,Asia-Pacific,Social Media
+2026-10-07,Smart Home,Philips Hue Bulb Kit,72.34,1,72.34,Asia-Pacific,Social Media
