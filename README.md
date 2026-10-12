@@ -2,12 +2,7 @@
 
 A professional-grade, interactive Business Intelligence application built with **Python**, **Streamlit**, and **Plotly** designed to track e-commerce transactional data, revenue performance, and category trends.
 
-<p align="center">
-  <video width="100%" autoplay loop muted playsinline>
-    <source src="demo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</p>
+https://github.com/crissnyx/ecommerce-sales-bi-dashboard/raw/main/demo.mp4
 
 ---
 
@@ -37,5 +32,5 @@ Follow these steps to run the project locally on your machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/ecommerce-bi-dashboard.git](https://github.com/your-username/ecommerce-bi-dashboard.git)
-   cd ecommerce-bi-dashboard
+   git clone [https://github.com/crissnyx/ecommerce-sales-bi-dashboard.git](https://github.com/crissnyx/ecommerce-sales-bi-dashboard.git)
+   cd ecommerce-sales-bi-dashboard
