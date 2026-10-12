@@ -43,12 +43,11 @@ def load_data():
     if 'Date' in df.columns:
         df['Date'] = pd.to_datetime(df['Date'], errors='coerce')
     else:
-        # Fallback if no date column is found
         df['Date'] = pd.date_range(start='2025-01-01', periods=len(df), freq='D')
         
     # Ensure Sales and Units exist
     if 'Total Sales' not in df.columns:
-        df['Total Sales'] = 100.0 # Fallback default
+        df['Total Sales'] = 100.0
     if 'Units Sold' not in df.columns:
         df['Units Sold'] = 1
         
@@ -56,7 +55,7 @@ def load_data():
     if 'Profit' not in df.columns and 'Cost' in df.columns:
         df['Profit'] = df['Total Sales'] - df['Cost']
     elif 'Profit' not in df.columns:
-        df['Profit'] = df['Total Sales'] * 0.25  # Estimated 25% profit margin fallback
+        df['Profit'] = df['Total Sales'] * 0.25
         
     return df
 
@@ -188,19 +187,37 @@ with col_download:
 
 st.dataframe(filtered_df, use_container_width=True)
 
-# --- PRESENTACIÓN EJECUTIVA AL FINAL DE LA APP ---
-st.markdown("---")  # Una línea divisoria bonita
-st.header("📊 Presentación Ejecutiva del Proyecto")
+# 7. Executive Presentation Slides (Using 01.png to 04.png)
+st.markdown("---")
+st.header("📊 Executive Project Presentation")
+st.markdown("Explore the key strategic insights, system architecture, and real-time business metrics below:")
 
-pdf_path = "E-Commerce BI Dashboard Presentation.pdf"
+c1, c2, c3 = st.columns([1, 2, 1])
 
-try:
-    with open(pdf_path, "rb") as f:
-        st.download_button(
-            label="📥 Descargar Presentación Ejecutiva (PDF)",
-            data=f,
-            file_name=pdf_path,
-            mime="application/pdf"
-        )
-except FileNotFoundError:
-    st.warning(f"No se encontró el archivo '{pdf_path}' en el repositorio.")
+with c2:
+    st.subheader("1. Project Overview")
+    try:
+        st.image("01.png", use_container_width=True)
+    except Exception:
+        st.warning("Image '01.png' not found in repository.")
+    st.markdown("<br>", unsafe_allow_html=True)
+
+    st.subheader("2. Strategic Challenge & BI Solution")
+    try:
+        st.image("02.png", use_container_width=True)
+    except Exception:
+        st.warning("Image '02.png' not found in repository.")
+    st.markdown("<br>", unsafe_allow_html=True)
+
+    st.subheader("3. Technical Architecture & Pillars")
+    try:
+        st.image("03.png", use_container_width=True)
+    except Exception:
+        st.warning("Image '03.png' not found in repository.")
+    st.markdown("<br>", unsafe_allow_html=True)
+
+    st.subheader("4. Real-Time KPIs")
+    try:
+        st.image("04.png", use_container_width=True)
+    except Exception:
+        st.warning("Image '04.png' not found in repository.")
