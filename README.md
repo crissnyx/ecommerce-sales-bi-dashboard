@@ -2,7 +2,7 @@
 
 A professional-grade, interactive Business Intelligence application built with **Python**, **Streamlit**, and **Plotly** designed to track e-commerce transactional data, revenue performance, and category trends.
 
-https://github.com/crissnyx/ecommerce-sales-bi-dashboard/raw/main/demo.mp4
+[![Ver Demo del Dashboard](https://img.shields.io/badge/▶_Ver_Demo_del_Dashboard-MP4-blue?style=for-the-badge&logo=playstation)](https://github.com/crissnyx/ecommerce-sales-bi-dashboard/raw/main/demo.mp4)
 
 ---
 
