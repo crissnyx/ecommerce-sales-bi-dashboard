@@ -2,6 +2,13 @@
 
 A professional-grade, interactive Business Intelligence application built with **Python**, **Streamlit**, and **Plotly** designed to track e-commerce transactional data, revenue performance, and category trends.
 
+<p align="center">
+  <video width="100%" autoplay loop muted playsinline>
+    <source src="demo.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
+
 ---
 
 ## 🚀 Features
