@@ -186,3 +186,23 @@ with col_download:
     )
 
 st.dataframe(filtered_df, use_container_width=True)
+# --- PRESENTACIÓN EJECUTIVA AL FINAL DE LA APP ---
+st.markdown("---")  # Una línea divisoria bonita
+st.header("📈 Presentación Ejecutiva del Proyecto")
+
+pdf_path = (
+    "E-Commerce BI Dashboard Presentation.pdf"  # Asegúrate de que el nombre coincida exactamente
+)
+
+try:
+  with open(pdf_path, "rb") as f:
+    base64_pdf = base64.b64encode(f.read()).decode("utf-8")
+
+  pdf_display = f'<iframe src="data:application/pdf;base64,{base64_pdf}" width="100%" height="800px" type="application/pdf"></iframe>'
+  st.markdown(pdf_display, unsafe_allow_html=True)
+
+except FileNotFoundError:
+  st.warning(
+      f"No se encontró el archivo '{pdf_path}' en el repositorio. Súbelo a"
+      " GitHub para visualizarlo aquí."
+  )
