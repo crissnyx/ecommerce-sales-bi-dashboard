@@ -215,9 +215,3 @@ with c2:
     except Exception:
         st.warning("Image '03.png' not found in repository.")
     st.markdown("<br>", unsafe_allow_html=True)
-
-    st.subheader("4. Real-Time KPIs")
-    try:
-        st.image("04.png", use_container_width=True)
-    except Exception:
-        st.warning("Image '04.png' not found in repository.")
