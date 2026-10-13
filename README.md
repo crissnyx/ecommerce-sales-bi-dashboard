@@ -2,7 +2,7 @@
 
 A professional-grade, interactive Business Intelligence application built with **Python**, **Streamlit**, and **Plotly** designed to track e-commerce transactional data, revenue performance, and category trends.
 
-[![View Live Demo](https://ecommerce-sales-bi-dashboard-f2asn6apmdlowmufrxwxwy.streamlit.app/)
+[![View Live Demo](https://img.shields.io/badge/🚀_View_Live_Demo-Streamlit_Cloud-FF4B4B?style=for-the-badge&logo=streamlit)](https://ecommerce-sales-bi-dashboard-f2asn6apmdlowmufrxwxwy.streamlit.app/)
 
 ![Dashboard Demo](demo.gif)
 
