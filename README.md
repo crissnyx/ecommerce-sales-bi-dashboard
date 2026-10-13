@@ -34,5 +34,5 @@ Follow these steps to run the project locally on your machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/crissnyx/ecommerce-sales-bi-dashboard.git](https://github.com/crissnyx/ecommerce-sales-bi-dashboard.git)
-   cd ecommerce-sales-bi-dashboard
+git clone https://github.com/crissnyx/ecommerce-sales-bi-dashboard.git
+cd ecommerce-sales-bi-dashboard
